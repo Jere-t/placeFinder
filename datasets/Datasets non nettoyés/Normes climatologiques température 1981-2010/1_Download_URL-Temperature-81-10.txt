@@ -1,0 +1,39 @@
+Climate normals temperature 1981-2010  
+
+Download URL NetCDF (LV03)
+ Mean yearly temperature 
+   https://data.geo.admin.ch/ch.meteoschweiz.klimanormwerte-temperatur_aktuelle_periode/netcdf/21781/TnormY8110_ch01r.swisscors_000001010000_000001010000.nc
+ Mean monthly temperatures
+   https://data.geo.admin.ch/ch.meteoschweiz.klimanormwerte-temperatur_aktuelle_periode/netcdf/21781/TnormM8110_ch01r.swisscors_000001010000_000012010000.nc
+
+Download URL geotiff (LV03)
+ Mean yearly temperature 
+   https://data.geo.admin.ch/ch.meteoschweiz.klimanormwerte-temperatur_aktuelle_periode/tif/21781/TnormY8110_ch01r.swisscors_10000101000000.tif
+ Mean monthly temperatures
+   https://data.geo.admin.ch/ch.meteoschweiz.klimanormwerte-temperatur_aktuelle_periode/tif/21781/TnormM8110_ch01r.swisscors_10000101000000.tif
+   https://data.geo.admin.ch/ch.meteoschweiz.klimanormwerte-temperatur_aktuelle_periode/tif/21781/TnormM8110_ch01r.swisscors_10000201000000.tif
+   https://data.geo.admin.ch/ch.meteoschweiz.klimanormwerte-temperatur_aktuelle_periode/tif/21781/TnormM8110_ch01r.swisscors_10000301000000.tif
+   https://data.geo.admin.ch/ch.meteoschweiz.klimanormwerte-temperatur_aktuelle_periode/tif/21781/TnormM8110_ch01r.swisscors_10000401000000.tif
+   https://data.geo.admin.ch/ch.meteoschweiz.klimanormwerte-temperatur_aktuelle_periode/tif/21781/TnormM8110_ch01r.swisscors_10000501000000.tif
+   https://data.geo.admin.ch/ch.meteoschweiz.klimanormwerte-temperatur_aktuelle_periode/tif/21781/TnormM8110_ch01r.swisscors_10000601000000.tif
+   https://data.geo.admin.ch/ch.meteoschweiz.klimanormwerte-temperatur_aktuelle_periode/tif/21781/TnormM8110_ch01r.swisscors_10000701000000.tif
+   https://data.geo.admin.ch/ch.meteoschweiz.klimanormwerte-temperatur_aktuelle_periode/tif/21781/TnormM8110_ch01r.swisscors_10000801000000.tif
+   https://data.geo.admin.ch/ch.meteoschweiz.klimanormwerte-temperatur_aktuelle_periode/tif/21781/TnormM8110_ch01r.swisscors_10000901000000.tif
+   https://data.geo.admin.ch/ch.meteoschweiz.klimanormwerte-temperatur_aktuelle_periode/tif/21781/TnormM8110_ch01r.swisscors_10001001000000.tif
+   https://data.geo.admin.ch/ch.meteoschweiz.klimanormwerte-temperatur_aktuelle_periode/tif/21781/TnormM8110_ch01r.swisscors_10001101000000.tif
+   https://data.geo.admin.ch/ch.meteoschweiz.klimanormwerte-temperatur_aktuelle_periode/tif/21781/TnormM8110_ch01r.swisscors_10001201000000.tif
+ Color legends:
+   https://data.geo.admin.ch/ch.meteoschweiz.klimanormwerte-temperatur_aktuelle_periode/info/Tnorm_E.png
+   https://data.geo.admin.ch/ch.meteoschweiz.klimanormwerte-temperatur_aktuelle_periode/info/Tnorm_F.png
+   https://data.geo.admin.ch/ch.meteoschweiz.klimanormwerte-temperatur_aktuelle_periode/info/Tnorm_G.png
+   https://data.geo.admin.ch/ch.meteoschweiz.klimanormwerte-temperatur_aktuelle_periode/info/Tnorm_I.png
+  
+   
+
+ 
+
+
+
+
+
+

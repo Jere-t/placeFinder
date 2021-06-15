@@ -1,0 +1,21 @@
+<GMLFeatureClassList>
+  <GMLFeatureClass>
+    <Name>Polygon</Name>
+    <ElementPath>Polygon</ElementPath>
+    <GeometryType>100</GeometryType>
+    <DatasetSpecificInfo>
+      <FeatureCount>2</FeatureCount>
+    </DatasetSpecificInfo>
+    <PropertyDefn>
+      <Name>posList</Name>
+      <ElementPath>exterior|LinearRing|posList</ElementPath>
+      <Type>String</Type>
+      <Width>15807</Width>
+    </PropertyDefn>
+    <PropertyDefn>
+      <Name>interior|LinearRing|posList</Name>
+      <ElementPath>interior|LinearRing|posList</ElementPath>
+      <Type>StringList</Type>
+    </PropertyDefn>
+  </GMLFeatureClass>
+</GMLFeatureClassList>

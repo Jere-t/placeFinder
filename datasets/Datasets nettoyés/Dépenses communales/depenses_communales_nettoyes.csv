@@ -1,0 +1,2034 @@
+GEONAME;VARIABLE;VALUE
+Basel;depc_t;319492.0
+Basel;depc_pat_cul;89279.0
+Basel;depc_cula;96742.0
+Basel;depc_med;0.0
+Basel;depc_spo;133339.0
+Basel;depc_egl;132.0
+Basel;depic_t;89536.0
+Basel;depic_pat_cul;7956.0
+Basel;depic_cula;19020.0
+Basel;depic_med;0.0
+Basel;depic_spo;62428.0
+Basel;depic_egl;132.0
+Bern;depc_t;90344.0
+Bern;depc_pat_cul;5825.0
+Bern;depc_cula;47394.0
+Bern;depc_med;946.0
+Bern;depc_spo;36167.0
+Bern;depc_egl;12.0
+Bern;depic_t;11890.0
+Bern;depic_pat_cul;68.0
+Bern;depic_cula;5917.0
+Bern;depic_med;0.0
+Bern;depic_spo;5905.0
+Bern;depic_egl;0.0
+Genève;depc_t;425099.0
+Genève;depc_pat_cul;93908.0
+Genève;depc_cula;229330.0
+Genève;depc_med;3428.0
+Genève;depc_spo;98432.0
+Genève;depc_egl;0.0
+Genève;depic_t;71360.0
+Genève;depic_pat_cul;7027.0
+Genève;depic_cula;58387.0
+Genève;depic_med;0.0
+Genève;depic_spo;5947.0
+Genève;depic_egl;0.0
+Lausanne;depc_t;192444.0
+Lausanne;depc_pat_cul;2107.0
+Lausanne;depc_cula;63615.0
+Lausanne;depc_med;481.0
+Lausanne;depc_spo;122399.0
+Lausanne;depc_egl;3841.0
+Lausanne;depic_t;46629.0
+Lausanne;depic_pat_cul;1616.0
+Lausanne;depic_cula;51.0
+Lausanne;depic_med;0.0
+Lausanne;depic_spo;44961.0
+Lausanne;depic_egl;0.0
+Winterthur;depc_t;69627.0
+Winterthur;depc_pat_cul;10895.0
+Winterthur;depc_cula;34284.0
+Winterthur;depc_med;280.0
+Winterthur;depc_spo;24168.0
+Winterthur;depc_egl;0.0
+Winterthur;depic_t;8016.0
+Winterthur;depic_pat_cul;840.0
+Winterthur;depic_cula;1158.0
+Winterthur;depic_med;0.0
+Winterthur;depic_spo;6018.0
+Winterthur;depic_egl;0.0
+Zürich;depc_t;316034.0
+Zürich;depc_pat_cul;45228.0
+Zürich;depc_cula;129286.0
+Zürich;depc_med;12546.0
+Zürich;depc_spo;128893.0
+Zürich;depc_egl;81.0
+Zürich;depic_t;48112.0
+Zürich;depic_pat_cul;8132.0
+Zürich;depic_cula;9998.0
+Zürich;depic_med;0.0
+Zürich;depic_spo;29982.0
+Zürich;depic_egl;0.0
+Biel/Bienne;depc_t;32408.0
+Biel/Bienne;depc_pat_cul;1716.0
+Biel/Bienne;depc_cula;13829.0
+Biel/Bienne;depc_med;76.0
+Biel/Bienne;depc_spo;16786.0
+Biel/Bienne;depc_egl;0.0
+Biel/Bienne;depic_t;9052.0
+Biel/Bienne;depic_pat_cul;0.0
+Biel/Bienne;depic_cula;4438.0
+Biel/Bienne;depic_med;0.0
+Biel/Bienne;depic_spo;4614.0
+Biel/Bienne;depic_egl;0.0
+Lugano;depc_t;58629.0
+Lugano;depc_pat_cul;9458.0
+Lugano;depc_cula;26055.0
+Lugano;depc_med;159.0
+Lugano;depc_spo;22316.0
+Lugano;depc_egl;640.0
+Lugano;depic_t;8630.0
+Lugano;depic_pat_cul;1008.0
+Lugano;depic_cula;2549.0
+Lugano;depic_med;0.0
+Lugano;depic_spo;4993.0
+Lugano;depic_egl;80.0
+Luzern;depc_t;44304.0
+Luzern;depc_pat_cul;2823.0
+Luzern;depc_cula;23498.0
+Luzern;depc_med;183.0
+Luzern;depc_spo;17801.0
+Luzern;depc_egl;0.0
+Luzern;depic_t;3736.0
+Luzern;depic_pat_cul;0.0
+Luzern;depic_cula;83.0
+Luzern;depic_med;0.0
+Luzern;depic_spo;3652.0
+Luzern;depic_egl;0.0
+St. Gallen;depc_t;41173.0
+St. Gallen;depc_pat_cul;9065.0
+St. Gallen;depc_cula;13714.0
+St. Gallen;depc_med;180.0
+St. Gallen;depc_spo;18205.0
+St. Gallen;depc_egl;10.0
+St. Gallen;depic_t;3117.0
+St. Gallen;depic_pat_cul;1557.0
+St. Gallen;depic_cula;0.0
+St. Gallen;depic_med;0.0
+St. Gallen;depic_spo;1560.0
+St. Gallen;depic_egl;0.0
+Aarau;depc_t;14722.0
+Aarau;depc_pat_cul;2674.0
+Aarau;depc_cula;4587.0
+Aarau;depc_med;0.0
+Aarau;depc_spo;7461.0
+Aarau;depc_egl;0.0
+Aarau;depic_t;2750.0
+Aarau;depic_pat_cul;215.0
+Aarau;depic_cula;196.0
+Aarau;depic_med;0.0
+Aarau;depic_spo;2339.0
+Aarau;depic_egl;0.0
+Allschwil;depc_t;2472.0
+Allschwil;depc_pat_cul;211.0
+Allschwil;depc_cula;169.0
+Allschwil;depc_med;0.0
+Allschwil;depc_spo;2091.0
+Allschwil;depc_egl;1.0
+Allschwil;depic_t;212.0
+Allschwil;depic_pat_cul;0.0
+Allschwil;depic_cula;0.0
+Allschwil;depic_med;0.0
+Allschwil;depic_spo;212.0
+Allschwil;depic_egl;0.0
+Baar;depc_t;6671.0
+Baar;depc_pat_cul;94.0
+Baar;depc_cula;1746.0
+Baar;depc_med;0.0
+Baar;depc_spo;4832.0
+Baar;depc_egl;0.0
+Baar;depic_t;62.0
+Baar;depic_pat_cul;0.0
+Baar;depic_cula;0.0
+Baar;depic_med;0.0
+Baar;depic_spo;62.0
+Baar;depic_egl;0.0
+Bellinzona;depc_t;16489.0
+Bellinzona;depc_pat_cul;4235.0
+Bellinzona;depc_cula;2090.0
+Bellinzona;depc_med;0.0
+Bellinzona;depc_spo;9897.0
+Bellinzona;depc_egl;267.0
+Bellinzona;depic_t;6167.0
+Bellinzona;depic_pat_cul;2700.0
+Bellinzona;depic_cula;226.0
+Bellinzona;depic_med;0.0
+Bellinzona;depic_spo;3162.0
+Bellinzona;depic_egl;80.0
+Bülach;depc_t;6023.0
+Bülach;depc_pat_cul;26.0
+Bülach;depc_cula;1376.0
+Bülach;depc_med;0.0
+Bülach;depc_spo;4622.0
+Bülach;depc_egl;0.0
+Bülach;depic_t;1214.0
+Bülach;depic_pat_cul;0.0
+Bülach;depic_cula;100.0
+Bülach;depic_med;0.0
+Bülach;depic_spo;1114.0
+Bülach;depic_egl;0.0
+Bulle;depc_t;9869.0
+Bulle;depc_pat_cul;1894.0
+Bulle;depc_cula;1172.0
+Bulle;depc_med;113.0
+Bulle;depc_spo;6690.0
+Bulle;depc_egl;0.0
+Bulle;depic_t;1795.0
+Bulle;depic_pat_cul;65.0
+Bulle;depic_cula;0.0
+Bulle;depic_med;0.0
+Bulle;depic_spo;1731.0
+Bulle;depic_egl;0.0
+Carouge (GE);depc_t;28831.0
+Carouge (GE);depc_pat_cul;978.0
+Carouge (GE);depc_cula;17132.0
+Carouge (GE);depc_med;508.0
+Carouge (GE);depc_spo;10213.0
+Carouge (GE);depc_egl;0.0
+Carouge (GE);depic_t;7265.0
+Carouge (GE);depic_pat_cul;8.0
+Carouge (GE);depic_cula;6481.0
+Carouge (GE);depic_med;0.0
+Carouge (GE);depic_spo;777.0
+Carouge (GE);depic_egl;0.0
+Chur;depc_t;23665.0
+Chur;depc_pat_cul;212.0
+Chur;depc_cula;3876.0
+Chur;depc_med;0.0
+Chur;depc_spo;19578.0
+Chur;depc_egl;0.0
+Chur;depic_t;8953.0
+Chur;depic_pat_cul;0.0
+Chur;depic_cula;802.0
+Chur;depic_med;0.0
+Chur;depic_spo;8151.0
+Chur;depic_egl;0.0
+Dietikon;depc_t;5875.0
+Dietikon;depc_pat_cul;46.0
+Dietikon;depc_cula;1050.0
+Dietikon;depc_med;0.0
+Dietikon;depc_spo;4779.0
+Dietikon;depc_egl;0.0
+Dietikon;depic_t;1228.0
+Dietikon;depic_pat_cul;0.0
+Dietikon;depic_cula;186.0
+Dietikon;depic_med;0.0
+Dietikon;depic_spo;1042.0
+Dietikon;depic_egl;0.0
+Dübendorf;depc_t;4793.0
+Dübendorf;depc_pat_cul;20.0
+Dübendorf;depc_cula;1109.0
+Dübendorf;depc_med;25.0
+Dübendorf;depc_spo;3567.0
+Dübendorf;depc_egl;73.0
+Dübendorf;depic_t;436.0
+Dübendorf;depic_pat_cul;0.0
+Dübendorf;depic_cula;82.0
+Dübendorf;depic_med;0.0
+Dübendorf;depic_spo;354.0
+Dübendorf;depic_egl;0.0
+Emmen;depc_t;4327.0
+Emmen;depc_pat_cul;152.0
+Emmen;depc_cula;803.0
+Emmen;depc_med;52.0
+Emmen;depc_spo;3321.0
+Emmen;depc_egl;0.0
+Emmen;depic_t;92.0
+Emmen;depic_pat_cul;0.0
+Emmen;depic_cula;-19.0
+Emmen;depic_med;0.0
+Emmen;depic_spo;111.0
+Emmen;depic_egl;0.0
+Frauenfeld;depc_t;8497.0
+Frauenfeld;depc_pat_cul;67.0
+Frauenfeld;depc_cula;2198.0
+Frauenfeld;depc_med;20.0
+Frauenfeld;depc_spo;6212.0
+Frauenfeld;depc_egl;0.0
+Frauenfeld;depic_t;890.0
+Frauenfeld;depic_pat_cul;0.0
+Frauenfeld;depic_cula;49.0
+Frauenfeld;depic_med;0.0
+Frauenfeld;depic_spo;841.0
+Frauenfeld;depic_egl;0.0
+Fribourg;depc_t;13981.0
+Fribourg;depc_pat_cul;46.0
+Fribourg;depc_cula;3938.0
+Fribourg;depc_med;216.0
+Fribourg;depc_spo;9782.0
+Fribourg;depc_egl;0.0
+Fribourg;depic_t;1251.0
+Fribourg;depic_pat_cul;0.0
+Fribourg;depic_cula;0.0
+Fribourg;depic_med;0.0
+Fribourg;depic_spo;1251.0
+Fribourg;depic_egl;0.0
+Horgen;depc_t;5558.0
+Horgen;depc_pat_cul;66.0
+Horgen;depc_cula;1000.0
+Horgen;depc_med;0.0
+Horgen;depc_spo;4493.0
+Horgen;depc_egl;0.0
+Horgen;depic_t;1617.0
+Horgen;depic_pat_cul;0.0
+Horgen;depic_cula;0.0
+Horgen;depic_med;0.0
+Horgen;depic_spo;1617.0
+Horgen;depic_egl;0.0
+Kloten;depc_t;11299.0
+Kloten;depc_pat_cul;0.0
+Kloten;depc_cula;1001.0
+Kloten;depc_med;0.0
+Kloten;depc_spo;10298.0
+Kloten;depc_egl;0.0
+Kloten;depic_t;2423.0
+Kloten;depic_pat_cul;0.0
+Kloten;depic_cula;0.0
+Kloten;depic_med;0.0
+Kloten;depic_spo;2423.0
+Kloten;depic_egl;0.0
+Köniz;depc_t;6781.0
+Köniz;depc_pat_cul;45.0
+Köniz;depc_cula;2867.0
+Köniz;depc_med;420.0
+Köniz;depc_spo;3449.0
+Köniz;depc_egl;1.0
+Köniz;depic_t;504.0
+Köniz;depic_pat_cul;0.0
+Köniz;depic_cula;0.0
+Köniz;depic_med;0.0
+Köniz;depic_spo;504.0
+Köniz;depic_egl;0.0
+Kreuzlingen;depc_t;8881.0
+Kreuzlingen;depc_pat_cul;1034.0
+Kreuzlingen;depc_cula;1548.0
+Kreuzlingen;depc_med;0.0
+Kreuzlingen;depc_spo;6299.0
+Kreuzlingen;depc_egl;0.0
+Kreuzlingen;depic_t;2129.0
+Kreuzlingen;depic_pat_cul;550.0
+Kreuzlingen;depic_cula;0.0
+Kreuzlingen;depic_med;0.0
+Kreuzlingen;depic_spo;1579.0
+Kreuzlingen;depic_egl;0.0
+Kriens;depc_t;13872.0
+Kriens;depc_pat_cul;330.0
+Kriens;depc_cula;705.0
+Kriens;depc_med;152.0
+Kriens;depc_spo;12685.0
+Kriens;depc_egl;0.0
+Kriens;depic_t;9799.0
+Kriens;depic_pat_cul;0.0
+Kriens;depic_cula;0.0
+Kriens;depic_med;0.0
+Kriens;depic_spo;9799.0
+Kriens;depic_egl;0.0
+La Chaux-de-Fonds;depc_t;22601.0
+La Chaux-de-Fonds;depc_pat_cul;5995.0
+La Chaux-de-Fonds;depc_cula;8009.0
+La Chaux-de-Fonds;depc_med;21.0
+La Chaux-de-Fonds;depc_spo;8501.0
+La Chaux-de-Fonds;depc_egl;76.0
+La Chaux-de-Fonds;depic_t;3026.0
+La Chaux-de-Fonds;depic_pat_cul;665.0
+La Chaux-de-Fonds;depic_cula;504.0
+La Chaux-de-Fonds;depic_med;0.0
+La Chaux-de-Fonds;depic_spo;1857.0
+La Chaux-de-Fonds;depic_egl;0.0
+Lancy;depc_t;24136.0
+Lancy;depc_pat_cul;1049.0
+Lancy;depc_cula;2832.0
+Lancy;depc_med;336.0
+Lancy;depc_spo;19920.0
+Lancy;depc_egl;0.0
+Lancy;depic_t;6750.0
+Lancy;depic_pat_cul;127.0
+Lancy;depic_cula;68.0
+Lancy;depic_med;0.0
+Lancy;depic_spo;6555.0
+Lancy;depic_egl;0.0
+Meyrin;depc_t;26788.0
+Meyrin;depc_pat_cul;711.0
+Meyrin;depc_cula;6792.0
+Meyrin;depc_med;545.0
+Meyrin;depc_spo;18741.0
+Meyrin;depc_egl;0.0
+Meyrin;depic_t;3458.0
+Meyrin;depic_pat_cul;54.0
+Meyrin;depic_cula;340.0
+Meyrin;depic_med;45.0
+Meyrin;depic_spo;3019.0
+Meyrin;depic_egl;0.0
+Montreux;depc_t;24928.0
+Montreux;depc_pat_cul;85.0
+Montreux;depc_cula;8740.0
+Montreux;depc_med;0.0
+Montreux;depc_spo;15349.0
+Montreux;depc_egl;754.0
+Montreux;depic_t;4248.0
+Montreux;depic_pat_cul;0.0
+Montreux;depic_cula;927.0
+Montreux;depic_med;0.0
+Montreux;depic_spo;3285.0
+Montreux;depic_egl;36.0
+Neuchâtel;depc_t;43448.0
+Neuchâtel;depc_pat_cul;12347.0
+Neuchâtel;depc_cula;10338.0
+Neuchâtel;depc_med;390.0
+Neuchâtel;depc_spo;19786.0
+Neuchâtel;depc_egl;586.0
+Neuchâtel;depic_t;5183.0
+Neuchâtel;depic_pat_cul;3101.0
+Neuchâtel;depic_cula;88.0
+Neuchâtel;depic_med;0.0
+Neuchâtel;depic_spo;1994.0
+Neuchâtel;depic_egl;0.0
+Nyon;depc_t;21056.0
+Nyon;depc_pat_cul;3809.0
+Nyon;depc_cula;3189.0
+Nyon;depc_med;360.0
+Nyon;depc_spo;13535.0
+Nyon;depc_egl;163.0
+Nyon;depic_t;4324.0
+Nyon;depic_pat_cul;437.0
+Nyon;depic_cula;0.0
+Nyon;depic_med;0.0
+Nyon;depic_spo;3887.0
+Nyon;depic_egl;0.0
+Opfikon;depc_t;6743.0
+Opfikon;depc_pat_cul;0.0
+Opfikon;depc_cula;776.0
+Opfikon;depc_med;0.0
+Opfikon;depc_spo;5966.0
+Opfikon;depc_egl;0.0
+Opfikon;depic_t;2617.0
+Opfikon;depic_pat_cul;0.0
+Opfikon;depic_cula;0.0
+Opfikon;depic_med;0.0
+Opfikon;depic_spo;2617.0
+Opfikon;depic_egl;0.0
+Rapperswil-Jona;depc_t;14689.0
+Rapperswil-Jona;depc_pat_cul;745.0
+Rapperswil-Jona;depc_cula;2645.0
+Rapperswil-Jona;depc_med;12.0
+Rapperswil-Jona;depc_spo;11288.0
+Rapperswil-Jona;depc_egl;0.0
+Rapperswil-Jona;depic_t;5693.0
+Rapperswil-Jona;depic_pat_cul;145.0
+Rapperswil-Jona;depic_cula;433.0
+Rapperswil-Jona;depic_med;0.0
+Rapperswil-Jona;depic_spo;5115.0
+Rapperswil-Jona;depic_egl;0.0
+Renens (VD);depc_t;8542.0
+Renens (VD);depc_pat_cul;0.0
+Renens (VD);depc_cula;3546.0
+Renens (VD);depc_med;111.0
+Renens (VD);depc_spo;4588.0
+Renens (VD);depc_egl;297.0
+Renens (VD);depic_t;76.0
+Renens (VD);depic_pat_cul;0.0
+Renens (VD);depic_cula;0.0
+Renens (VD);depic_med;0.0
+Renens (VD);depic_spo;76.0
+Renens (VD);depic_egl;0.0
+Riehen;depc_t;13106.0
+Riehen;depc_pat_cul;1722.0
+Riehen;depc_cula;2608.0
+Riehen;depc_med;746.0
+Riehen;depc_spo;8030.0
+Riehen;depc_egl;0.0
+Riehen;depic_t;293.0
+Riehen;depic_pat_cul;256.0
+Riehen;depic_cula;0.0
+Riehen;depic_med;29.0
+Riehen;depic_spo;8.0
+Riehen;depic_egl;0.0
+Schaffhausen;depc_t;22827.0
+Schaffhausen;depc_pat_cul;4992.0
+Schaffhausen;depc_cula;7713.0
+Schaffhausen;depc_med;10.0
+Schaffhausen;depc_spo;10112.0
+Schaffhausen;depc_egl;0.0
+Schaffhausen;depic_t;1706.0
+Schaffhausen;depic_pat_cul;109.0
+Schaffhausen;depic_cula;246.0
+Schaffhausen;depic_med;0.0
+Schaffhausen;depic_spo;1351.0
+Schaffhausen;depic_egl;0.0
+Sion;depc_t;22918.0
+Sion;depc_pat_cul;262.0
+Sion;depc_cula;4199.0
+Sion;depc_med;0.0
+Sion;depc_spo;18457.0
+Sion;depc_egl;0.0
+Sion;depic_t;5533.0
+Sion;depic_pat_cul;262.0
+Sion;depic_cula;400.0
+Sion;depic_med;0.0
+Sion;depic_spo;4871.0
+Sion;depic_egl;0.0
+Thun;depc_t;15072.0
+Thun;depc_pat_cul;2435.0
+Thun;depc_cula;3305.0
+Thun;depc_med;0.0
+Thun;depc_spo;9331.0
+Thun;depc_egl;0.0
+Thun;depic_t;2530.0
+Thun;depic_pat_cul;99.0
+Thun;depic_cula;95.0
+Thun;depic_med;0.0
+Thun;depic_spo;2336.0
+Thun;depic_egl;0.0
+Uster;depc_t;12280.0
+Uster;depc_pat_cul;251.0
+Uster;depc_cula;5109.0
+Uster;depc_med;0.0
+Uster;depc_spo;6920.0
+Uster;depc_egl;0.0
+Uster;depic_t;677.0
+Uster;depic_pat_cul;0.0
+Uster;depic_cula;148.0
+Uster;depic_med;0.0
+Uster;depic_spo;528.0
+Uster;depic_egl;0.0
+Vernier;depc_t;26025.0
+Vernier;depc_pat_cul;0.0
+Vernier;depc_cula;5159.0
+Vernier;depc_med;252.0
+Vernier;depc_spo;20614.0
+Vernier;depc_egl;0.0
+Vernier;depic_t;10601.0
+Vernier;depic_pat_cul;0.0
+Vernier;depic_cula;979.0
+Vernier;depic_med;0.0
+Vernier;depic_spo;9622.0
+Vernier;depic_egl;0.0
+Wädenswil;depc_t;6426.0
+Wädenswil;depc_pat_cul;10.0
+Wädenswil;depc_cula;609.0
+Wädenswil;depc_med;0.0
+Wädenswil;depc_spo;5776.0
+Wädenswil;depc_egl;31.0
+Wädenswil;depic_t;318.0
+Wädenswil;depic_pat_cul;0.0
+Wädenswil;depic_cula;0.0
+Wädenswil;depic_med;0.0
+Wädenswil;depic_spo;318.0
+Wädenswil;depic_egl;0.0
+Wettingen;depc_t;14045.0
+Wettingen;depc_pat_cul;456.0
+Wettingen;depc_cula;727.0
+Wettingen;depc_med;0.0
+Wettingen;depc_spo;12862.0
+Wettingen;depc_egl;0.0
+Wettingen;depic_t;9109.0
+Wettingen;depic_pat_cul;0.0
+Wettingen;depic_cula;0.0
+Wettingen;depic_med;0.0
+Wettingen;depic_spo;9109.0
+Wettingen;depic_egl;0.0
+Wetzikon (ZH);depc_t;6858.0
+Wetzikon (ZH);depc_pat_cul;200.0
+Wetzikon (ZH);depc_cula;985.0
+Wetzikon (ZH);depc_med;0.0
+Wetzikon (ZH);depc_spo;5673.0
+Wetzikon (ZH);depc_egl;0.0
+Wetzikon (ZH);depic_t;71.0
+Wetzikon (ZH);depic_pat_cul;0.0
+Wetzikon (ZH);depic_cula;0.0
+Wetzikon (ZH);depic_med;0.0
+Wetzikon (ZH);depic_spo;71.0
+Wetzikon (ZH);depic_egl;0.0
+Wil (SG);depc_t;9668.0
+Wil (SG);depc_pat_cul;53.0
+Wil (SG);depc_cula;3880.0
+Wil (SG);depc_med;12.0
+Wil (SG);depc_spo;5724.0
+Wil (SG);depc_egl;0.0
+Wil (SG);depic_t;2985.0
+Wil (SG);depic_pat_cul;0.0
+Wil (SG);depic_cula;1514.0
+Wil (SG);depic_med;0.0
+Wil (SG);depic_spo;1471.0
+Wil (SG);depic_egl;0.0
+Yverdon-les-Bains;depc_t;20943.0
+Yverdon-les-Bains;depc_pat_cul;1641.0
+Yverdon-les-Bains;depc_cula;6805.0
+Yverdon-les-Bains;depc_med;82.0
+Yverdon-les-Bains;depc_spo;11559.0
+Yverdon-les-Bains;depc_egl;855.0
+Yverdon-les-Bains;depic_t;1406.0
+Yverdon-les-Bains;depic_pat_cul;0.0
+Yverdon-les-Bains;depic_cula;29.0
+Yverdon-les-Bains;depic_med;0.0
+Yverdon-les-Bains;depic_spo;1298.0
+Yverdon-les-Bains;depic_egl;79.0
+Zug;depc_t;12194.0
+Zug;depc_pat_cul;1373.0
+Zug;depc_cula;8350.0
+Zug;depc_med;0.0
+Zug;depc_spo;2471.0
+Zug;depc_egl;0.0
+Zug;depic_t;1580.0
+Zug;depic_pat_cul;0.0
+Zug;depic_cula;1563.0
+Zug;depic_med;0.0
+Zug;depic_spo;16.0
+Zug;depic_egl;0.0
+Adliswil;depc_t;7894.0
+Adliswil;depc_pat_cul;0.0
+Adliswil;depc_cula;787.0
+Adliswil;depc_med;0.0
+Adliswil;depc_spo;7107.0
+Adliswil;depc_egl;0.0
+Adliswil;depic_t;3482.0
+Adliswil;depic_pat_cul;0.0
+Adliswil;depic_cula;0.0
+Adliswil;depic_med;0.0
+Adliswil;depic_spo;3482.0
+Adliswil;depic_egl;0.0
+Baden;depc_t;17198.0
+Baden;depc_pat_cul;1675.0
+Baden;depc_cula;9262.0
+Baden;depc_med;0.0
+Baden;depc_spo;6261.0
+Baden;depc_egl;0.0
+Baden;depic_t;6113.0
+Baden;depic_pat_cul;14.0
+Baden;depic_cula;4596.0
+Baden;depic_med;0.0
+Baden;depic_spo;1504.0
+Baden;depic_egl;0.0
+Binningen;depc_t;4387.0
+Binningen;depc_pat_cul;481.0
+Binningen;depc_cula;362.0
+Binningen;depc_med;925.0
+Binningen;depc_spo;2619.0
+Binningen;depc_egl;0.0
+Binningen;depic_t;0.0
+Binningen;depic_pat_cul;0.0
+Binningen;depic_cula;0.0
+Binningen;depic_med;0.0
+Binningen;depic_spo;0.0
+Binningen;depic_egl;0.0
+Burgdorf;depc_t;11180.0
+Burgdorf;depc_pat_cul;172.0
+Burgdorf;depc_cula;7698.0
+Burgdorf;depc_med;28.0
+Burgdorf;depc_spo;3283.0
+Burgdorf;depc_egl;0.0
+Burgdorf;depic_t;7552.0
+Burgdorf;depic_pat_cul;0.0
+Burgdorf;depic_cula;6700.0
+Burgdorf;depic_med;8.0
+Burgdorf;depic_spo;845.0
+Burgdorf;depic_egl;0.0
+Cham;depc_t;4757.0
+Cham;depc_pat_cul;39.0
+Cham;depc_cula;2546.0
+Cham;depc_med;0.0
+Cham;depc_spo;2173.0
+Cham;depc_egl;0.0
+Cham;depic_t;0.0
+Cham;depic_pat_cul;0.0
+Cham;depic_cula;0.0
+Cham;depic_med;0.0
+Cham;depic_spo;0.0
+Cham;depic_egl;0.0
+Einsiedeln;depc_t;1168.0
+Einsiedeln;depc_pat_cul;10.0
+Einsiedeln;depc_cula;391.0
+Einsiedeln;depc_med;0.0
+Einsiedeln;depc_spo;767.0
+Einsiedeln;depc_egl;0.0
+Einsiedeln;depic_t;0.0
+Einsiedeln;depic_pat_cul;0.0
+Einsiedeln;depic_cula;0.0
+Einsiedeln;depic_med;0.0
+Einsiedeln;depic_spo;0.0
+Einsiedeln;depic_egl;0.0
+Freienbach;depc_t;2975.0
+Freienbach;depc_pat_cul;0.0
+Freienbach;depc_cula;361.0
+Freienbach;depc_med;80.0
+Freienbach;depc_spo;2533.0
+Freienbach;depc_egl;0.0
+Freienbach;depic_t;123.0
+Freienbach;depic_pat_cul;0.0
+Freienbach;depic_cula;0.0
+Freienbach;depic_med;0.0
+Freienbach;depic_spo;123.0
+Freienbach;depic_egl;0.0
+Glarus Nord;depc_t;3156.0
+Glarus Nord;depc_pat_cul;195.0
+Glarus Nord;depc_cula;1060.0
+Glarus Nord;depc_med;0.0
+Glarus Nord;depc_spo;1902.0
+Glarus Nord;depc_egl;0.0
+Glarus Nord;depic_t;0.0
+Glarus Nord;depic_pat_cul;0.0
+Glarus Nord;depic_cula;0.0
+Glarus Nord;depic_med;0.0
+Glarus Nord;depic_spo;0.0
+Glarus Nord;depic_egl;0.0
+Gossau (SG);depc_t;4904.0
+Gossau (SG);depc_pat_cul;3.0
+Gossau (SG);depc_cula;1831.0
+Gossau (SG);depc_med;0.0
+Gossau (SG);depc_spo;3070.0
+Gossau (SG);depc_egl;0.0
+Gossau (SG);depic_t;267.0
+Gossau (SG);depic_pat_cul;0.0
+Gossau (SG);depic_cula;0.0
+Gossau (SG);depic_med;0.0
+Gossau (SG);depic_spo;267.0
+Gossau (SG);depic_egl;0.0
+Grenchen;depc_t;5039.0
+Grenchen;depc_pat_cul;423.0
+Grenchen;depc_cula;1470.0
+Grenchen;depc_med;0.0
+Grenchen;depc_spo;3147.0
+Grenchen;depc_egl;0.0
+Grenchen;depic_t;1253.0
+Grenchen;depic_pat_cul;5.0
+Grenchen;depic_cula;619.0
+Grenchen;depic_med;0.0
+Grenchen;depic_spo;629.0
+Grenchen;depic_egl;0.0
+Herisau;depc_t;6012.0
+Herisau;depc_pat_cul;112.0
+Herisau;depc_cula;1082.0
+Herisau;depc_med;15.0
+Herisau;depc_spo;4755.0
+Herisau;depc_egl;47.0
+Herisau;depic_t;452.0
+Herisau;depic_pat_cul;101.0
+Herisau;depic_cula;169.0
+Herisau;depic_med;0.0
+Herisau;depic_spo;183.0
+Herisau;depic_egl;0.0
+Illnau-Effretikon;depc_t;2673.0
+Illnau-Effretikon;depc_pat_cul;73.0
+Illnau-Effretikon;depc_cula;446.0
+Illnau-Effretikon;depc_med;0.0
+Illnau-Effretikon;depc_spo;2154.0
+Illnau-Effretikon;depc_egl;0.0
+Illnau-Effretikon;depic_t;0.0
+Illnau-Effretikon;depic_pat_cul;0.0
+Illnau-Effretikon;depic_cula;0.0
+Illnau-Effretikon;depic_med;0.0
+Illnau-Effretikon;depic_spo;0.0
+Illnau-Effretikon;depic_egl;0.0
+Langenthal;depc_t;11450.0
+Langenthal;depc_pat_cul;164.0
+Langenthal;depc_cula;5091.0
+Langenthal;depc_med;0.0
+Langenthal;depc_spo;6195.0
+Langenthal;depc_egl;0.0
+Langenthal;depic_t;4395.0
+Langenthal;depic_pat_cul;0.0
+Langenthal;depic_cula;2274.0
+Langenthal;depic_med;0.0
+Langenthal;depic_spo;2122.0
+Langenthal;depic_egl;0.0
+Locarno;depc_t;5914.0
+Locarno;depc_pat_cul;1969.0
+Locarno;depc_cula;589.0
+Locarno;depc_med;300.0
+Locarno;depc_spo;2950.0
+Locarno;depc_egl;107.0
+Locarno;depic_t;1472.0
+Locarno;depic_pat_cul;981.0
+Locarno;depic_cula;24.0
+Locarno;depic_med;0.0
+Locarno;depic_spo;468.0
+Locarno;depic_egl;0.0
+Lyss;depc_t;4490.0
+Lyss;depc_pat_cul;2.0
+Lyss;depc_cula;689.0
+Lyss;depc_med;0.0
+Lyss;depc_spo;3800.0
+Lyss;depc_egl;0.0
+Lyss;depic_t;579.0
+Lyss;depic_pat_cul;0.0
+Lyss;depic_cula;0.0
+Lyss;depic_med;0.0
+Lyss;depic_spo;579.0
+Lyss;depic_egl;0.0
+Martigny;depc_t;9116.0
+Martigny;depc_pat_cul;997.0
+Martigny;depc_cula;2350.0
+Martigny;depc_med;0.0
+Martigny;depc_spo;5071.0
+Martigny;depc_egl;698.0
+Martigny;depic_t;440.0
+Martigny;depic_pat_cul;0.0
+Martigny;depic_cula;0.0
+Martigny;depic_med;0.0
+Martigny;depic_spo;440.0
+Martigny;depic_egl;0.0
+Monthey;depc_t;13137.0
+Monthey;depc_pat_cul;74.0
+Monthey;depc_cula;4627.0
+Monthey;depc_med;71.0
+Monthey;depc_spo;7460.0
+Monthey;depc_egl;905.0
+Monthey;depic_t;3841.0
+Monthey;depic_pat_cul;0.0
+Monthey;depic_cula;215.0
+Monthey;depic_med;0.0
+Monthey;depic_spo;3626.0
+Monthey;depic_egl;0.0
+Morges;depc_t;12655.0
+Morges;depc_pat_cul;929.0
+Morges;depc_cula;5823.0
+Morges;depc_med;7.0
+Morges;depc_spo;5451.0
+Morges;depc_egl;445.0
+Morges;depic_t;762.0
+Morges;depic_pat_cul;542.0
+Morges;depic_cula;10.0
+Morges;depic_med;0.0
+Morges;depic_spo;210.0
+Morges;depic_egl;0.0
+Muttenz;depc_t;4130.0
+Muttenz;depc_pat_cul;241.0
+Muttenz;depc_cula;396.0
+Muttenz;depc_med;873.0
+Muttenz;depc_spo;2590.0
+Muttenz;depc_egl;30.0
+Muttenz;depic_t;529.0
+Muttenz;depic_pat_cul;0.0
+Muttenz;depic_cula;0.0
+Muttenz;depic_med;53.0
+Muttenz;depic_spo;475.0
+Muttenz;depic_egl;0.0
+Olten;depc_t;15118.0
+Olten;depc_pat_cul;6264.0
+Olten;depc_cula;2060.0
+Olten;depc_med;0.0
+Olten;depc_spo;6794.0
+Olten;depc_egl;0.0
+Olten;depic_t;5456.0
+Olten;depic_pat_cul;3929.0
+Olten;depic_cula;152.0
+Olten;depic_med;0.0
+Olten;depic_spo;1375.0
+Olten;depic_egl;0.0
+Onex;depc_t;12590.0
+Onex;depc_pat_cul;0.0
+Onex;depc_cula;2490.0
+Onex;depc_med;137.0
+Onex;depc_spo;9963.0
+Onex;depc_egl;0.0
+Onex;depic_t;3209.0
+Onex;depic_pat_cul;0.0
+Onex;depic_cula;0.0
+Onex;depic_med;0.0
+Onex;depic_spo;3209.0
+Onex;depic_egl;0.0
+Ostermundigen;depc_t;2189.0
+Ostermundigen;depc_pat_cul;0.0
+Ostermundigen;depc_cula;843.0
+Ostermundigen;depc_med;31.0
+Ostermundigen;depc_spo;1315.0
+Ostermundigen;depc_egl;0.0
+Ostermundigen;depic_t;1.0
+Ostermundigen;depic_pat_cul;0.0
+Ostermundigen;depic_cula;1.0
+Ostermundigen;depic_med;0.0
+Ostermundigen;depic_spo;0.0
+Ostermundigen;depic_egl;0.0
+Pratteln;depc_t;4799.0
+Pratteln;depc_pat_cul;2.0
+Pratteln;depc_cula;352.0
+Pratteln;depc_med;1374.0
+Pratteln;depc_spo;3071.0
+Pratteln;depc_egl;0.0
+Pratteln;depic_t;397.0
+Pratteln;depic_pat_cul;0.0
+Pratteln;depic_cula;0.0
+Pratteln;depic_med;170.0
+Pratteln;depic_spo;227.0
+Pratteln;depic_egl;0.0
+Pully;depc_t;10550.0
+Pully;depc_pat_cul;1297.0
+Pully;depc_cula;3293.0
+Pully;depc_med;0.0
+Pully;depc_spo;5655.0
+Pully;depc_egl;305.0
+Pully;depic_t;626.0
+Pully;depic_pat_cul;0.0
+Pully;depic_cula;50.0
+Pully;depic_med;0.0
+Pully;depic_spo;576.0
+Pully;depic_egl;0.0
+Regensdorf;depc_t;2218.0
+Regensdorf;depc_pat_cul;0.0
+Regensdorf;depc_cula;498.0
+Regensdorf;depc_med;216.0
+Regensdorf;depc_spo;1505.0
+Regensdorf;depc_egl;0.0
+Regensdorf;depic_t;0.0
+Regensdorf;depic_pat_cul;0.0
+Regensdorf;depic_cula;0.0
+Regensdorf;depic_med;0.0
+Regensdorf;depic_spo;0.0
+Regensdorf;depic_egl;0.0
+Reinach (BL);depc_t;12677.0
+Reinach (BL);depc_pat_cul;77.0
+Reinach (BL);depc_cula;708.0
+Reinach (BL);depc_med;1468.0
+Reinach (BL);depc_spo;10424.0
+Reinach (BL);depc_egl;0.0
+Reinach (BL);depic_t;9234.0
+Reinach (BL);depic_pat_cul;0.0
+Reinach (BL);depic_cula;0.0
+Reinach (BL);depic_med;42.0
+Reinach (BL);depic_spo;9192.0
+Reinach (BL);depic_egl;0.0
+Schlieren;depc_t;2648.0
+Schlieren;depc_pat_cul;37.0
+Schlieren;depc_cula;607.0
+Schlieren;depc_med;0.0
+Schlieren;depc_spo;2004.0
+Schlieren;depc_egl;0.0
+Schlieren;depic_t;59.0
+Schlieren;depic_pat_cul;0.0
+Schlieren;depic_cula;0.0
+Schlieren;depic_med;0.0
+Schlieren;depic_spo;59.0
+Schlieren;depic_egl;0.0
+Schwyz;depc_t;1720.0
+Schwyz;depc_pat_cul;0.0
+Schwyz;depc_cula;451.0
+Schwyz;depc_med;0.0
+Schwyz;depc_spo;1269.0
+Schwyz;depc_egl;0.0
+Schwyz;depic_t;0.0
+Schwyz;depic_pat_cul;0.0
+Schwyz;depic_cula;0.0
+Schwyz;depic_med;0.0
+Schwyz;depic_spo;0.0
+Schwyz;depic_egl;0.0
+Sierre;depc_t;11925.0
+Sierre;depc_pat_cul;130.0
+Sierre;depc_cula;2933.0
+Sierre;depc_med;29.0
+Sierre;depc_spo;7838.0
+Sierre;depc_egl;995.0
+Sierre;depic_t;3644.0
+Sierre;depic_pat_cul;0.0
+Sierre;depic_cula;118.0
+Sierre;depic_med;0.0
+Sierre;depic_spo;3526.0
+Sierre;depic_egl;0.0
+Solothurn;depc_t;18571.0
+Solothurn;depc_pat_cul;4635.0
+Solothurn;depc_cula;5840.0
+Solothurn;depc_med;210.0
+Solothurn;depc_spo;7886.0
+Solothurn;depc_egl;0.0
+Solothurn;depic_t;2826.0
+Solothurn;depic_pat_cul;318.0
+Solothurn;depic_cula;256.0
+Solothurn;depic_med;0.0
+Solothurn;depic_spo;2252.0
+Solothurn;depic_egl;0.0
+Steffisburg;depc_t;2149.0
+Steffisburg;depc_pat_cul;155.0
+Steffisburg;depc_cula;571.0
+Steffisburg;depc_med;88.0
+Steffisburg;depc_spo;1325.0
+Steffisburg;depc_egl;10.0
+Steffisburg;depic_t;747.0
+Steffisburg;depic_pat_cul;0.0
+Steffisburg;depic_cula;0.0
+Steffisburg;depic_med;0.0
+Steffisburg;depic_spo;747.0
+Steffisburg;depic_egl;0.0
+Thalwil;depc_t;8191.0
+Thalwil;depc_pat_cul;33.0
+Thalwil;depc_cula;590.0
+Thalwil;depc_med;2.0
+Thalwil;depc_spo;7560.0
+Thalwil;depc_egl;5.0
+Thalwil;depic_t;5291.0
+Thalwil;depic_pat_cul;0.0
+Thalwil;depic_cula;0.0
+Thalwil;depic_med;0.0
+Thalwil;depic_spo;5291.0
+Thalwil;depic_egl;0.0
+Vevey;depc_t;17010.0
+Vevey;depc_pat_cul;4236.0
+Vevey;depc_cula;4566.0
+Vevey;depc_med;7.0
+Vevey;depc_spo;7681.0
+Vevey;depc_egl;520.0
+Vevey;depic_t;1716.0
+Vevey;depic_pat_cul;354.0
+Vevey;depic_cula;238.0
+Vevey;depic_med;0.0
+Vevey;depic_spo;1123.0
+Vevey;depic_egl;0.0
+Volketswil;depc_t;7677.0
+Volketswil;depc_pat_cul;24.0
+Volketswil;depc_cula;638.0
+Volketswil;depc_med;1735.0
+Volketswil;depc_spo;5280.0
+Volketswil;depc_egl;0.0
+Volketswil;depic_t;3574.0
+Volketswil;depic_pat_cul;0.0
+Volketswil;depic_cula;0.0
+Volketswil;depic_med;166.0
+Volketswil;depic_spo;3408.0
+Volketswil;depic_egl;0.0
+Wallisellen;depc_t;5125.0
+Wallisellen;depc_pat_cul;7.0
+Wallisellen;depc_cula;1663.0
+Wallisellen;depc_med;0.0
+Wallisellen;depc_spo;3455.0
+Wallisellen;depc_egl;0.0
+Wallisellen;depic_t;1822.0
+Wallisellen;depic_pat_cul;0.0
+Wallisellen;depic_cula;0.0
+Wallisellen;depic_med;0.0
+Wallisellen;depic_spo;1822.0
+Wallisellen;depic_egl;0.0
+Wohlen (AG);depc_t;14547.0
+Wohlen (AG);depc_pat_cul;178.0
+Wohlen (AG);depc_cula;726.0
+Wohlen (AG);depc_med;0.0
+Wohlen (AG);depc_spo;13643.0
+Wohlen (AG);depc_egl;0.0
+Wohlen (AG);depic_t;12215.0
+Wohlen (AG);depic_pat_cul;0.0
+Wohlen (AG);depic_cula;0.0
+Wohlen (AG);depic_med;0.0
+Wohlen (AG);depic_spo;12215.0
+Wohlen (AG);depic_egl;0.0
+Aesch (BL);depc_t;3757.0
+Aesch (BL);depc_pat_cul;0.0
+Aesch (BL);depc_cula;386.0
+Aesch (BL);depc_med;622.0
+Aesch (BL);depc_spo;2749.0
+Aesch (BL);depc_egl;0.0
+Aesch (BL);depic_t;731.0
+Aesch (BL);depic_pat_cul;0.0
+Aesch (BL);depic_cula;0.0
+Aesch (BL);depic_med;75.0
+Aesch (BL);depic_spo;655.0
+Aesch (BL);depic_egl;0.0
+Affoltern am Albis;depc_t;2059.0
+Affoltern am Albis;depc_pat_cul;0.0
+Affoltern am Albis;depc_cula;855.0
+Affoltern am Albis;depc_med;0.0
+Affoltern am Albis;depc_spo;1204.0
+Affoltern am Albis;depc_egl;0.0
+Affoltern am Albis;depic_t;574.0
+Affoltern am Albis;depic_pat_cul;0.0
+Affoltern am Albis;depic_cula;0.0
+Affoltern am Albis;depic_med;0.0
+Affoltern am Albis;depic_spo;574.0
+Affoltern am Albis;depic_egl;0.0
+Aigle;depc_t;2009.0
+Aigle;depc_pat_cul;62.0
+Aigle;depc_cula;818.0
+Aigle;depc_med;30.0
+Aigle;depc_spo;1098.0
+Aigle;depc_egl;0.0
+Aigle;depic_t;30.0
+Aigle;depic_pat_cul;0.0
+Aigle;depic_cula;0.0
+Aigle;depic_med;0.0
+Aigle;depic_spo;30.0
+Aigle;depic_egl;0.0
+Altstätten;depc_t;6437.0
+Altstätten;depc_pat_cul;72.0
+Altstätten;depc_cula;441.0
+Altstätten;depc_med;0.0
+Altstätten;depc_spo;5925.0
+Altstätten;depc_egl;0.0
+Altstätten;depic_t;4500.0
+Altstätten;depic_pat_cul;0.0
+Altstätten;depic_cula;0.0
+Altstätten;depic_med;0.0
+Altstätten;depic_spo;4500.0
+Altstätten;depic_egl;0.0
+Amriswil;depc_t;7973.0
+Amriswil;depc_pat_cul;61.0
+Amriswil;depc_cula;1030.0
+Amriswil;depc_med;0.0
+Amriswil;depc_spo;6883.0
+Amriswil;depc_egl;0.0
+Amriswil;depic_t;5177.0
+Amriswil;depic_pat_cul;0.0
+Amriswil;depic_cula;0.0
+Amriswil;depic_med;0.0
+Amriswil;depic_spo;5177.0
+Amriswil;depic_egl;0.0
+Arbon;depc_t;6548.0
+Arbon;depc_pat_cul;1776.0
+Arbon;depc_cula;209.0
+Arbon;depc_med;8.0
+Arbon;depc_spo;4555.0
+Arbon;depc_egl;0.0
+Arbon;depic_t;2286.0
+Arbon;depic_pat_cul;1347.0
+Arbon;depic_cula;0.0
+Arbon;depic_med;0.0
+Arbon;depic_spo;938.0
+Arbon;depic_egl;0.0
+Arth;depc_t;714.0
+Arth;depc_pat_cul;0.0
+Arth;depc_cula;104.0
+Arth;depc_med;0.0
+Arth;depc_spo;610.0
+Arth;depc_egl;0.0
+Arth;depic_t;102.0
+Arth;depic_pat_cul;0.0
+Arth;depic_cula;0.0
+Arth;depic_med;0.0
+Arth;depic_spo;102.0
+Arth;depic_egl;0.0
+Bassersdorf;depc_t;1506.0
+Bassersdorf;depc_pat_cul;13.0
+Bassersdorf;depc_cula;984.0
+Bassersdorf;depc_med;0.0
+Bassersdorf;depc_spo;508.0
+Bassersdorf;depc_egl;0.0
+Bassersdorf;depic_t;0.0
+Bassersdorf;depic_pat_cul;0.0
+Bassersdorf;depic_cula;0.0
+Bassersdorf;depic_med;0.0
+Bassersdorf;depic_spo;0.0
+Bassersdorf;depic_egl;0.0
+Belp;depc_t;1506.0
+Belp;depc_pat_cul;76.0
+Belp;depc_cula;555.0
+Belp;depc_med;40.0
+Belp;depc_spo;834.0
+Belp;depc_egl;0.0
+Belp;depic_t;8.0
+Belp;depic_pat_cul;0.0
+Belp;depic_cula;0.0
+Belp;depic_med;0.0
+Belp;depic_spo;8.0
+Belp;depic_egl;0.0
+Birsfelden;depc_t;3399.0
+Birsfelden;depc_pat_cul;138.0
+Birsfelden;depc_cula;138.0
+Birsfelden;depc_med;399.0
+Birsfelden;depc_spo;2724.0
+Birsfelden;depc_egl;0.0
+Birsfelden;depic_t;828.0
+Birsfelden;depic_pat_cul;0.0
+Birsfelden;depic_cula;0.0
+Birsfelden;depic_med;41.0
+Birsfelden;depic_spo;787.0
+Birsfelden;depic_egl;0.0
+Brig-Glis;depc_t;5931.0
+Brig-Glis;depc_pat_cul;84.0
+Brig-Glis;depc_cula;1911.0
+Brig-Glis;depc_med;0.0
+Brig-Glis;depc_spo;2573.0
+Brig-Glis;depc_egl;1363.0
+Brig-Glis;depic_t;413.0
+Brig-Glis;depic_pat_cul;0.0
+Brig-Glis;depic_cula;170.0
+Brig-Glis;depic_med;0.0
+Brig-Glis;depic_spo;243.0
+Brig-Glis;depic_egl;0.0
+Brugg;depc_t;3656.0
+Brugg;depc_pat_cul;152.0
+Brugg;depc_cula;781.0
+Brugg;depc_med;0.0
+Brugg;depc_spo;2722.0
+Brugg;depc_egl;0.0
+Brugg;depic_t;426.0
+Brugg;depic_pat_cul;0.0
+Brugg;depic_cula;0.0
+Brugg;depic_med;0.0
+Brugg;depic_spo;426.0
+Brugg;depic_egl;0.0
+Buchs (SG);depc_t;2789.0
+Buchs (SG);depc_cula;604.0
+Buchs (SG);depc_med;0.0
+Buchs (SG);depc_spo;2184.0
+Buchs (SG);depc_egl;0.0
+Buchs (SG);depic_t;566.0
+Buchs (SG);depic_pat_cul;0.0
+Buchs (SG);depic_cula;0.0
+Buchs (SG);depic_med;0.0
+Buchs (SG);depic_spo;566.0
+Buchs (SG);depic_egl;0.0
+Chêne-Bougeries;depc_t;5128.0
+Chêne-Bougeries;depc_pat_cul;0.0
+Chêne-Bougeries;depc_cula;838.0
+Chêne-Bougeries;depc_med;0.0
+Chêne-Bougeries;depc_spo;4290.0
+Chêne-Bougeries;depc_egl;0.0
+Chêne-Bougeries;depic_t;131.0
+Chêne-Bougeries;depic_pat_cul;0.0
+Chêne-Bougeries;depic_cula;0.0
+Chêne-Bougeries;depic_med;0.0
+Chêne-Bougeries;depic_spo;131.0
+Chêne-Bougeries;depic_egl;0.0
+Davos;depc_t;12697.0
+Davos;depc_pat_cul;136.0
+Davos;depc_cula;723.0
+Davos;depc_med;0.0
+Davos;depc_spo;11837.0
+Davos;depc_egl;0.0
+Davos;depic_t;7652.0
+Davos;depic_pat_cul;0.0
+Davos;depic_cula;0.0
+Davos;depic_med;0.0
+Davos;depic_spo;7652.0
+Davos;depic_egl;0.0
+Delémont;depc_t;5439.0
+Delémont;depc_pat_cul;352.0
+Delémont;depc_cula;1683.0
+Delémont;depc_med;5.0
+Delémont;depc_spo;3399.0
+Delémont;depc_egl;0.0
+Delémont;depic_t;234.0
+Delémont;depic_pat_cul;0.0
+Delémont;depic_cula;0.0
+Delémont;depic_med;0.0
+Delémont;depic_spo;234.0
+Delémont;depic_egl;0.0
+Ebikon;depc_t;1109.0
+Ebikon;depc_pat_cul;0.0
+Ebikon;depc_cula;392.0
+Ebikon;depc_med;0.0
+Ebikon;depc_spo;677.0
+Ebikon;depc_egl;40.0
+Ebikon;depic_t;103.0
+Ebikon;depic_pat_cul;0.0
+Ebikon;depic_cula;0.0
+Ebikon;depic_med;0.0
+Ebikon;depic_spo;103.0
+Ebikon;depic_egl;0.0
+Ecublens (VD);depc_t;4018.0
+Ecublens (VD);depc_pat_cul;2.0
+Ecublens (VD);depc_cula;1381.0
+Ecublens (VD);depc_med;44.0
+Ecublens (VD);depc_spo;2425.0
+Ecublens (VD);depc_egl;165.0
+Ecublens (VD);depic_t;412.0
+Ecublens (VD);depic_pat_cul;0.0
+Ecublens (VD);depic_cula;0.0
+Ecublens (VD);depic_med;0.0
+Ecublens (VD);depic_spo;412.0
+Ecublens (VD);depic_egl;0.0
+Flawil;depc_t;1878.0
+Flawil;depc_pat_cul;5.0
+Flawil;depc_cula;669.0
+Flawil;depc_med;123.0
+Flawil;depc_spo;1080.0
+Flawil;depc_egl;0.0
+Flawil;depic_t;37.0
+Flawil;depic_pat_cul;0.0
+Flawil;depic_cula;37.0
+Flawil;depic_med;0.0
+Flawil;depic_spo;0.0
+Flawil;depic_egl;0.0
+Gland;depc_t;4766.0
+Gland;depc_pat_cul;0.0
+Gland;depc_cula;1815.0
+Gland;depc_med;130.0
+Gland;depc_spo;2752.0
+Gland;depc_egl;69.0
+Gland;depic_t;1724.0
+Gland;depic_pat_cul;0.0
+Gland;depic_cula;60.0
+Gland;depic_med;130.0
+Gland;depic_spo;1534.0
+Gland;depic_egl;0.0
+Glarus;depc_t;3232.0
+Glarus;depc_pat_cul;128.0
+Glarus;depc_cula;273.0
+Glarus;depc_med;0.0
+Glarus;depc_spo;2796.0
+Glarus;depc_egl;34.0
+Glarus;depic_t;991.0
+Glarus;depic_pat_cul;43.0
+Glarus;depic_cula;18.0
+Glarus;depic_med;0.0
+Glarus;depic_spo;930.0
+Glarus;depic_egl;0.0
+Hinwil;depc_t;1601.0
+Hinwil;depc_pat_cul;51.0
+Hinwil;depc_cula;484.0
+Hinwil;depc_med;93.0
+Hinwil;depc_spo;973.0
+Hinwil;depc_egl;0.0
+Hinwil;depic_t;328.0
+Hinwil;depic_pat_cul;0.0
+Hinwil;depic_cula;0.0
+Hinwil;depic_med;0.0
+Hinwil;depic_spo;328.0
+Hinwil;depic_egl;0.0
+Horw;depc_t;2581.0
+Horw;depc_pat_cul;0.0
+Horw;depc_cula;697.0
+Horw;depc_med;395.0
+Horw;depc_spo;1488.0
+Horw;depc_egl;0.0
+Horw;depic_t;0.0
+Horw;depic_pat_cul;0.0
+Horw;depic_cula;0.0
+Horw;depic_med;0.0
+Horw;depic_spo;0.0
+Horw;depic_egl;0.0
+Ittigen;depc_t;1006.0
+Ittigen;depc_pat_cul;0.0
+Ittigen;depc_cula;642.0
+Ittigen;depc_med;10.0
+Ittigen;depc_spo;354.0
+Ittigen;depc_egl;0.0
+Ittigen;depic_t;0.0
+Ittigen;depic_pat_cul;0.0
+Ittigen;depic_cula;0.0
+Ittigen;depic_med;0.0
+Ittigen;depic_spo;0.0
+Ittigen;depic_egl;0.0
+Küsnacht (ZH);depc_t;5997.0
+Küsnacht (ZH);depc_pat_cul;85.0
+Küsnacht (ZH);depc_cula;1140.0
+Küsnacht (ZH);depc_med;237.0
+Küsnacht (ZH);depc_spo;4535.0
+Küsnacht (ZH);depc_egl;0.0
+Küsnacht (ZH);depic_t;516.0
+Küsnacht (ZH);depic_pat_cul;0.0
+Küsnacht (ZH);depic_cula;391.0
+Küsnacht (ZH);depic_med;0.0
+Küsnacht (ZH);depic_spo;125.0
+Küsnacht (ZH);depic_egl;0.0
+La Tour-de-Peilz;depc_t;5790.0
+La Tour-de-Peilz;depc_pat_cul;697.0
+La Tour-de-Peilz;depc_cula;1677.0
+La Tour-de-Peilz;depc_med;16.0
+La Tour-de-Peilz;depc_spo;3034.0
+La Tour-de-Peilz;depc_egl;367.0
+La Tour-de-Peilz;depic_t;503.0
+La Tour-de-Peilz;depic_pat_cul;0.0
+La Tour-de-Peilz;depic_cula;0.0
+La Tour-de-Peilz;depic_med;0.0
+La Tour-de-Peilz;depic_spo;214.0
+La Tour-de-Peilz;depic_egl;290.0
+Le Grand-Saconnex;depc_t;5170.0
+Le Grand-Saconnex;depc_pat_cul;0.0
+Le Grand-Saconnex;depc_cula;484.0
+Le Grand-Saconnex;depc_med;0.0
+Le Grand-Saconnex;depc_spo;4686.0
+Le Grand-Saconnex;depc_egl;0.0
+Le Grand-Saconnex;depic_t;256.0
+Le Grand-Saconnex;depic_pat_cul;0.0
+Le Grand-Saconnex;depic_cula;0.0
+Le Grand-Saconnex;depic_med;0.0
+Le Grand-Saconnex;depic_spo;256.0
+Le Grand-Saconnex;depic_egl;0.0
+Le Locle;depc_t;8204.0
+Le Locle;depc_pat_cul;2496.0
+Le Locle;depc_cula;1639.0
+Le Locle;depc_med;0.0
+Le Locle;depc_spo;3965.0
+Le Locle;depc_egl;105.0
+Le Locle;depic_t;1545.0
+Le Locle;depic_pat_cul;2.0
+Le Locle;depic_cula;0.0
+Le Locle;depic_med;0.0
+Le Locle;depic_spo;1544.0
+Le Locle;depic_egl;0.0
+Lenzburg;depc_t;3274.0
+Lenzburg;depc_pat_cul;554.0
+Lenzburg;depc_cula;584.0
+Lenzburg;depc_med;0.0
+Lenzburg;depc_spo;2136.0
+Lenzburg;depc_egl;0.0
+Lenzburg;depic_t;364.0
+Lenzburg;depic_pat_cul;0.0
+Lenzburg;depic_cula;0.0
+Lenzburg;depic_med;0.0
+Lenzburg;depic_spo;364.0
+Lenzburg;depic_egl;0.0
+Liestal;depc_t;3502.0
+Liestal;depc_pat_cul;480.0
+Liestal;depc_cula;620.0
+Liestal;depc_med;69.0
+Liestal;depc_spo;2334.0
+Liestal;depc_egl;0.0
+Liestal;depic_t;314.0
+Liestal;depic_pat_cul;307.0
+Liestal;depic_cula;0.0
+Liestal;depic_med;0.0
+Liestal;depic_spo;7.0
+Liestal;depic_egl;0.0
+Männedorf;depc_t;3219.0
+Männedorf;depc_pat_cul;103.0
+Männedorf;depc_cula;558.0
+Männedorf;depc_med;0.0
+Männedorf;depc_spo;2558.0
+Männedorf;depc_egl;0.0
+Männedorf;depic_t;142.0
+Männedorf;depic_pat_cul;0.0
+Männedorf;depic_cula;0.0
+Männedorf;depic_med;0.0
+Männedorf;depic_spo;142.0
+Männedorf;depic_egl;0.0
+Meilen;depc_t;4858.0
+Meilen;depc_pat_cul;93.0
+Meilen;depc_cula;795.0
+Meilen;depc_med;0.0
+Meilen;depc_spo;3971.0
+Meilen;depc_egl;0.0
+Meilen;depic_t;209.0
+Meilen;depic_pat_cul;0.0
+Meilen;depic_cula;0.0
+Meilen;depic_med;0.0
+Meilen;depic_spo;209.0
+Meilen;depic_egl;0.0
+Mendrisio;depc_t;12478.0
+Mendrisio;depc_pat_cul;1481.0
+Mendrisio;depc_cula;6545.0
+Mendrisio;depc_med;0.0
+Mendrisio;depc_spo;4272.0
+Mendrisio;depc_egl;181.0
+Mendrisio;depic_t;6116.0
+Mendrisio;depic_pat_cul;167.0
+Mendrisio;depic_cula;5577.0
+Mendrisio;depic_med;0.0
+Mendrisio;depic_spo;371.0
+Mendrisio;depic_egl;0.0
+Möhlin;depc_t;1709.0
+Möhlin;depc_pat_cul;0.0
+Möhlin;depc_cula;395.0
+Möhlin;depc_med;0.0
+Möhlin;depc_spo;1314.0
+Möhlin;depc_egl;0.0
+Möhlin;depic_t;0.0
+Möhlin;depic_pat_cul;0.0
+Möhlin;depic_cula;0.0
+Möhlin;depic_med;0.0
+Möhlin;depic_spo;0.0
+Möhlin;depic_egl;0.0
+Münchenbuchsee;depc_t;2154.0
+Münchenbuchsee;depc_pat_cul;0.0
+Münchenbuchsee;depc_cula;459.0
+Münchenbuchsee;depc_med;23.0
+Münchenbuchsee;depc_spo;1672.0
+Münchenbuchsee;depc_egl;0.0
+Münchenbuchsee;depic_t;912.0
+Münchenbuchsee;depic_pat_cul;0.0
+Münchenbuchsee;depic_cula;0.0
+Münchenbuchsee;depic_med;0.0
+Münchenbuchsee;depic_spo;912.0
+Münchenbuchsee;depic_egl;0.0
+Münchenstein;depc_t;2150.0
+Münchenstein;depc_pat_cul;69.0
+Münchenstein;depc_cula;336.0
+Münchenstein;depc_med;0.0
+Münchenstein;depc_spo;1746.0
+Münchenstein;depc_egl;0.0
+Münchenstein;depic_t;578.0
+Münchenstein;depic_pat_cul;0.0
+Münchenstein;depic_cula;0.0
+Münchenstein;depic_med;0.0
+Münchenstein;depic_spo;578.0
+Münchenstein;depic_egl;0.0
+Münsingen;depc_t;3297.0
+Münsingen;depc_pat_cul;579.0
+Münsingen;depc_cula;670.0
+Münsingen;depc_med;44.0
+Münsingen;depc_spo;2004.0
+Münsingen;depc_egl;0.0
+Münsingen;depic_t;840.0
+Münsingen;depic_pat_cul;0.0
+Münsingen;depic_cula;0.0
+Münsingen;depic_med;0.0
+Münsingen;depic_spo;840.0
+Münsingen;depic_egl;0.0
+Muri bei Bern;depc_t;3471.0
+Muri bei Bern;depc_pat_cul;0.0
+Muri bei Bern;depc_cula;799.0
+Muri bei Bern;depc_med;138.0
+Muri bei Bern;depc_spo;2534.0
+Muri bei Bern;depc_egl;0.0
+Muri bei Bern;depic_t;1027.0
+Muri bei Bern;depic_pat_cul;0.0
+Muri bei Bern;depic_cula;0.0
+Muri bei Bern;depic_med;0.0
+Muri bei Bern;depic_spo;1027.0
+Muri bei Bern;depic_egl;0.0
+Neuhausen am Rheinfall;depc_t;2416.0
+Neuhausen am Rheinfall;depc_cula;411.0
+Neuhausen am Rheinfall;depc_med;735.0
+Neuhausen am Rheinfall;depc_spo;1270.0
+Neuhausen am Rheinfall;depc_egl;0.0
+Neuhausen am Rheinfall;depic_t;323.0
+Neuhausen am Rheinfall;depic_pat_cul;0.0
+Neuhausen am Rheinfall;depic_cula;0.0
+Neuhausen am Rheinfall;depic_med;188.0
+Neuhausen am Rheinfall;depic_spo;135.0
+Neuhausen am Rheinfall;depic_egl;0.0
+Oberwil (BL);depc_t;2338.0
+Oberwil (BL);depc_pat_cul;85.0
+Oberwil (BL);depc_cula;422.0
+Oberwil (BL);depc_med;693.0
+Oberwil (BL);depc_spo;1138.0
+Oberwil (BL);depc_egl;0.0
+Oberwil (BL);depic_t;148.0
+Oberwil (BL);depic_pat_cul;0.0
+Oberwil (BL);depic_cula;0.0
+Oberwil (BL);depic_med;104.0
+Oberwil (BL);depic_spo;44.0
+Oberwil (BL);depic_egl;0.0
+Oftringen;depc_t;745.0
+Oftringen;depc_pat_cul;106.0
+Oftringen;depc_cula;289.0
+Oftringen;depc_med;0.0
+Oftringen;depc_spo;350.0
+Oftringen;depc_egl;0.0
+Oftringen;depic_t;0.0
+Oftringen;depic_pat_cul;0.0
+Oftringen;depic_cula;0.0
+Oftringen;depic_med;0.0
+Oftringen;depic_spo;0.0
+Oftringen;depic_egl;0.0
+Payerne;depc_t;4064.0
+Payerne;depc_pat_cul;1184.0
+Payerne;depc_cula;374.0
+Payerne;depc_med;0.0
+Payerne;depc_spo;2507.0
+Payerne;depc_egl;0.0
+Payerne;depic_t;1596.0
+Payerne;depic_pat_cul;775.0
+Payerne;depic_cula;0.0
+Payerne;depic_med;0.0
+Payerne;depic_spo;822.0
+Payerne;depic_egl;0.0
+Pfäffikon;depc_t;3100.0
+Pfäffikon;depc_pat_cul;426.0
+Pfäffikon;depc_cula;520.0
+Pfäffikon;depc_med;0.0
+Pfäffikon;depc_spo;2153.0
+Pfäffikon;depc_egl;0.0
+Pfäffikon;depic_t;7.0
+Pfäffikon;depic_pat_cul;0.0
+Pfäffikon;depic_cula;0.0
+Pfäffikon;depic_med;0.0
+Pfäffikon;depic_spo;7.0
+Pfäffikon;depic_egl;0.0
+Plan-les-Ouates;depc_t;11649.0
+Plan-les-Ouates;depc_pat_cul;2.0
+Plan-les-Ouates;depc_cula;2859.0
+Plan-les-Ouates;depc_med;110.0
+Plan-les-Ouates;depc_spo;8672.0
+Plan-les-Ouates;depc_egl;6.0
+Plan-les-Ouates;depic_t;1174.0
+Plan-les-Ouates;depic_pat_cul;0.0
+Plan-les-Ouates;depic_cula;0.0
+Plan-les-Ouates;depic_med;0.0
+Plan-les-Ouates;depic_spo;1174.0
+Plan-les-Ouates;depic_egl;0.0
+Prilly;depc_t;5010.0
+Prilly;depc_cula;769.0
+Prilly;depc_med;41.0
+Prilly;depc_spo;3742.0
+Prilly;depc_egl;458.0
+Prilly;depic_t;29.0
+Prilly;depic_pat_cul;0.0
+Prilly;depic_cula;0.0
+Prilly;depic_med;0.0
+Prilly;depic_spo;29.0
+Prilly;depic_egl;0.0
+Rheinfelden;depc_t;7705.0
+Rheinfelden;depc_pat_cul;146.0
+Rheinfelden;depc_cula;1360.0
+Rheinfelden;depc_med;470.0
+Rheinfelden;depc_spo;5729.0
+Rheinfelden;depc_egl;0.0
+Rheinfelden;depic_t;3558.0
+Rheinfelden;depic_pat_cul;0.0
+Rheinfelden;depic_cula;0.0
+Rheinfelden;depic_med;0.0
+Rheinfelden;depic_spo;3558.0
+Rheinfelden;depic_egl;0.0
+Richterswil;depc_t;1822.0
+Richterswil;depc_pat_cul;7.0
+Richterswil;depc_cula;326.0
+Richterswil;depc_med;0.0
+Richterswil;depc_spo;1489.0
+Richterswil;depc_egl;0.0
+Richterswil;depic_t;0.0
+Richterswil;depic_pat_cul;0.0
+Richterswil;depic_cula;0.0
+Richterswil;depic_med;0.0
+Richterswil;depic_spo;0.0
+Richterswil;depic_egl;0.0
+Risch;depc_t;4273.0
+Risch;depc_pat_cul;0.0
+Risch;depc_cula;1049.0
+Risch;depc_med;0.0
+Risch;depc_spo;3225.0
+Risch;depc_egl;0.0
+Risch;depic_t;2591.0
+Risch;depic_pat_cul;0.0
+Risch;depic_cula;138.0
+Risch;depic_med;0.0
+Risch;depic_spo;2453.0
+Risch;depic_egl;0.0
+Romanshorn;depc_t;3350.0
+Romanshorn;depc_pat_cul;80.0
+Romanshorn;depc_cula;319.0
+Romanshorn;depc_med;57.0
+Romanshorn;depc_spo;2894.0
+Romanshorn;depc_egl;0.0
+Romanshorn;depic_t;653.0
+Romanshorn;depic_pat_cul;0.0
+Romanshorn;depic_cula;0.0
+Romanshorn;depic_med;0.0
+Romanshorn;depic_spo;653.0
+Romanshorn;depic_egl;0.0
+Rüti (ZH);depc_t;1790.0
+Rüti (ZH);depc_pat_cul;0.0
+Rüti (ZH);depc_cula;959.0
+Rüti (ZH);depc_med;0.0
+Rüti (ZH);depc_spo;830.0
+Rüti (ZH);depc_egl;0.0
+Rüti (ZH);depic_t;13.0
+Rüti (ZH);depic_pat_cul;0.0
+Rüti (ZH);depic_cula;0.0
+Rüti (ZH);depic_med;0.0
+Rüti (ZH);depic_spo;13.0
+Rüti (ZH);depic_egl;0.0
+Sarnen;depc_t;3171.0
+Sarnen;depc_pat_cul;205.0
+Sarnen;depc_cula;329.0
+Sarnen;depc_med;62.0
+Sarnen;depc_spo;2574.0
+Sarnen;depc_egl;1.0
+Sarnen;depic_t;8.0
+Sarnen;depic_pat_cul;0.0
+Sarnen;depic_cula;0.0
+Sarnen;depic_med;0.0
+Sarnen;depic_spo;8.0
+Sarnen;depic_egl;0.0
+Spiez;depc_t;2286.0
+Spiez;depc_pat_cul;0.0
+Spiez;depc_cula;495.0
+Spiez;depc_med;0.0
+Spiez;depc_spo;1791.0
+Spiez;depc_egl;0.0
+Spiez;depic_t;0.0
+Spiez;depic_pat_cul;0.0
+Spiez;depic_cula;0.0
+Spiez;depic_med;0.0
+Spiez;depic_spo;0.0
+Spiez;depic_egl;0.0
+Spreitenbach;depc_t;1060.0
+Spreitenbach;depc_pat_cul;0.0
+Spreitenbach;depc_cula;346.0
+Spreitenbach;depc_med;35.0
+Spreitenbach;depc_spo;679.0
+Spreitenbach;depc_egl;0.0
+Spreitenbach;depic_t;111.0
+Spreitenbach;depic_pat_cul;0.0
+Spreitenbach;depic_cula;0.0
+Spreitenbach;depic_med;0.0
+Spreitenbach;depic_spo;111.0
+Spreitenbach;depic_egl;0.0
+Stäfa;depc_t;1700.0
+Stäfa;depc_pat_cul;8.0
+Stäfa;depc_cula;556.0
+Stäfa;depc_med;0.0
+Stäfa;depc_spo;1136.0
+Stäfa;depc_egl;0.0
+Stäfa;depic_t;45.0
+Stäfa;depic_pat_cul;0.0
+Stäfa;depic_cula;0.0
+Stäfa;depic_med;0.0
+Stäfa;depic_spo;45.0
+Stäfa;depic_egl;0.0
+Steinhausen;depc_t;3492.0
+Steinhausen;depc_pat_cul;0.0
+Steinhausen;depc_cula;735.0
+Steinhausen;depc_med;0.0
+Steinhausen;depc_spo;2757.0
+Steinhausen;depc_egl;0.0
+Steinhausen;depic_t;2541.0
+Steinhausen;depic_pat_cul;0.0
+Steinhausen;depic_cula;0.0
+Steinhausen;depic_med;0.0
+Steinhausen;depic_spo;2541.0
+Steinhausen;depic_egl;0.0
+Sursee;depc_t;2471.0
+Sursee;depc_pat_cul;74.0
+Sursee;depc_cula;907.0
+Sursee;depc_med;6.0
+Sursee;depc_spo;1483.0
+Sursee;depc_egl;0.0
+Sursee;depic_t;150.0
+Sursee;depic_pat_cul;0.0
+Sursee;depic_cula;40.0
+Sursee;depic_med;0.0
+Sursee;depic_spo;110.0
+Sursee;depic_egl;0.0
+Thônex;depc_t;7472.0
+Thônex;depc_pat_cul;0.0
+Thônex;depc_cula;791.0
+Thônex;depc_med;125.0
+Thônex;depc_spo;6555.0
+Thônex;depc_egl;0.0
+Thônex;depic_t;783.0
+Thônex;depic_pat_cul;0.0
+Thônex;depic_cula;0.0
+Thônex;depic_med;0.0
+Thônex;depic_spo;783.0
+Thônex;depic_egl;0.0
+Uzwil;depc_t;2967.0
+Uzwil;depc_pat_cul;71.0
+Uzwil;depc_cula;963.0
+Uzwil;depc_med;0.0
+Uzwil;depc_spo;1933.0
+Uzwil;depc_egl;0.0
+Uzwil;depic_t;53.0
+Uzwil;depic_pat_cul;0.0
+Uzwil;depic_cula;0.0
+Uzwil;depic_med;0.0
+Uzwil;depic_spo;53.0
+Uzwil;depic_egl;0.0
+Versoix;depc_t;7636.0
+Versoix;depc_pat_cul;524.0
+Versoix;depc_cula;1662.0
+Versoix;depc_med;82.0
+Versoix;depc_spo;5368.0
+Versoix;depc_egl;0.0
+Versoix;depic_t;1677.0
+Versoix;depic_pat_cul;0.0
+Versoix;depic_cula;0.0
+Versoix;depic_med;0.0
+Versoix;depic_spo;1677.0
+Versoix;depic_egl;0.0
+Villars-sur-Glâne;depc_t;3427.0
+Villars-sur-Glâne;depc_pat_cul;0.0
+Villars-sur-Glâne;depc_cula;2096.0
+Villars-sur-Glâne;depc_med;0.0
+Villars-sur-Glâne;depc_spo;1331.0
+Villars-sur-Glâne;depc_egl;0.0
+Villars-sur-Glâne;depic_t;24.0
+Villars-sur-Glâne;depic_pat_cul;0.0
+Villars-sur-Glâne;depic_cula;0.0
+Villars-sur-Glâne;depic_med;0.0
+Villars-sur-Glâne;depic_spo;24.0
+Villars-sur-Glâne;depic_egl;0.0
+Weinfelden;depc_t;4721.0
+Weinfelden;depc_pat_cul;15.0
+Weinfelden;depc_cula;815.0
+Weinfelden;depc_med;0.0
+Weinfelden;depc_spo;3891.0
+Weinfelden;depc_egl;0.0
+Weinfelden;depic_t;772.0
+Weinfelden;depic_pat_cul;0.0
+Weinfelden;depic_cula;0.0
+Weinfelden;depic_med;0.0
+Weinfelden;depic_spo;772.0
+Weinfelden;depic_egl;0.0
+Worb;depc_t;4205.0
+Worb;depc_cula;507.0
+Worb;depc_med;99.0
+Worb;depc_spo;3599.0
+Worb;depc_egl;0.0
+Worb;depic_t;2343.0
+Worb;depic_pat_cul;0.0
+Worb;depic_cula;0.0
+Worb;depic_med;0.0
+Worb;depic_spo;2343.0
+Worb;depic_egl;0.0
+Zofingen;depc_t;4054.0
+Zofingen;depc_pat_cul;35.0
+Zofingen;depc_cula;1896.0
+Zofingen;depc_med;0.0
+Zofingen;depc_spo;2123.0
+Zofingen;depc_egl;0.0
+Zofingen;depic_t;138.0
+Zofingen;depic_pat_cul;0.0
+Zofingen;depic_cula;0.0
+Zofingen;depic_med;0.0
+Zofingen;depic_spo;138.0
+Zofingen;depic_egl;0.0
+Zollikofen;depc_t;2900.0
+Zollikofen;depc_cula;907.0
+Zollikofen;depc_med;797.0
+Zollikofen;depc_spo;1197.0
+Zollikofen;depc_egl;0.0
+Zollikofen;depic_t;1162.0
+Zollikofen;depic_pat_cul;0.0
+Zollikofen;depic_cula;344.0
+Zollikofen;depic_med;0.0
+Zollikofen;depic_spo;818.0
+Zollikofen;depic_egl;0.0
+Zollikon;depc_t;7797.0
+Zollikon;depc_pat_cul;215.0
+Zollikon;depc_cula;553.0
+Zollikon;depc_med;0.0
+Zollikon;depc_spo;7029.0
+Zollikon;depc_egl;0.0
+Zollikon;depic_t;1194.0
+Zollikon;depic_pat_cul;0.0
+Zollikon;depic_cula;0.0
+Zollikon;depic_med;0.0
+Zollikon;depic_spo;1194.0
+Zollikon;depic_egl;0.0
+Altdorf (UR);depc_t;2236.0
+Altdorf (UR);depc_pat_cul;59.0
+Altdorf (UR);depc_cula;1469.0
+Altdorf (UR);depc_med;6.0
+Altdorf (UR);depc_spo;703.0
+Altdorf (UR);depc_egl;0.0
+Altdorf (UR);depic_t;543.0
+Altdorf (UR);depic_pat_cul;0.0
+Altdorf (UR);depic_cula;493.0
+Altdorf (UR);depic_med;0.0
+Altdorf (UR);depic_spo;51.0
+Altdorf (UR);depic_egl;0.0
+Appenzell;depc_t;1706.0
+Appenzell;depc_pat_cul;6.0
+Appenzell;depc_cula;57.0
+Appenzell;depc_med;0.0
+Appenzell;depc_spo;1643.0
+Appenzell;depc_egl;0.0
+Appenzell;depic_t;1075.0
+Appenzell;depic_pat_cul;0.0
+Appenzell;depic_cula;0.0
+Appenzell;depic_med;0.0
+Appenzell;depic_spo;1075.0
+Appenzell;depic_egl;0.0
+Arlesheim;depc_t;3023.0
+Arlesheim;depc_pat_cul;111.0
+Arlesheim;depc_cula;1086.0
+Arlesheim;depc_med;0.0
+Arlesheim;depc_spo;1826.0
+Arlesheim;depc_egl;0.0
+Arlesheim;depic_t;261.0
+Arlesheim;depic_pat_cul;0.0
+Arlesheim;depic_cula;254.0
+Arlesheim;depic_med;0.0
+Arlesheim;depic_spo;7.0
+Arlesheim;depic_egl;0.0
+Arosa;depc_t;1370.0
+Arosa;depc_pat_cul;109.0
+Arosa;depc_cula;193.0
+Arosa;depc_spo;1068.0
+Arosa;depc_egl;0.0
+Arosa;depic_t;159.0
+Arosa;depic_pat_cul;102.0
+Arosa;depic_cula;0.0
+Arosa;depic_spo;57.0
+Arosa;depic_egl;0.0
+Bussigny;depc_t;3805.0
+Bussigny;depc_pat_cul;0.0
+Bussigny;depc_cula;995.0
+Bussigny;depc_med;1169.0
+Bussigny;depc_spo;1459.0
+Bussigny;depc_egl;182.0
+Bussigny;depic_t;701.0
+Bussigny;depic_pat_cul;0.0
+Bussigny;depic_cula;0.0
+Bussigny;depic_med;562.0
+Bussigny;depic_spo;88.0
+Bussigny;depic_egl;51.0
+Chiasso;depc_t;7305.0
+Chiasso;depc_pat_cul;1067.0
+Chiasso;depc_cula;1728.0
+Chiasso;depc_med;0.0
+Chiasso;depc_spo;4489.0
+Chiasso;depc_egl;20.0
+Chiasso;depic_t;525.0
+Chiasso;depic_pat_cul;36.0
+Chiasso;depic_cula;55.0
+Chiasso;depic_med;0.0
+Chiasso;depic_spo;434.0
+Chiasso;depic_egl;0.0
+Crissier;depc_t;1666.0
+Crissier;depc_pat_cul;19.0
+Crissier;depc_cula;548.0
+Crissier;depc_med;0.0
+Crissier;depc_spo;950.0
+Crissier;depc_egl;149.0
+Crissier;depic_t;11.0
+Crissier;depic_pat_cul;0.0
+Crissier;depic_cula;0.0
+Crissier;depic_med;0.0
+Crissier;depic_spo;11.0
+Crissier;depic_egl;0.0
+Interlaken;depc_t;1424.0
+Interlaken;depc_pat_cul;40.0
+Interlaken;depc_cula;342.0
+Interlaken;depc_med;0.0
+Interlaken;depc_spo;1043.0
+Interlaken;depc_egl;0.0
+Interlaken;depic_t;120.0
+Interlaken;depic_pat_cul;0.0
+Interlaken;depic_cula;100.0
+Interlaken;depic_med;0.0
+Interlaken;depic_spo;20.0
+Interlaken;depic_egl;0.0
+La Neuveville;depc_t;1406.0
+La Neuveville;depc_pat_cul;78.0
+La Neuveville;depc_cula;220.0
+La Neuveville;depc_med;461.0
+La Neuveville;depc_spo;646.0
+La Neuveville;depc_egl;0.0
+La Neuveville;depic_t;0.0
+La Neuveville;depic_pat_cul;0.0
+La Neuveville;depic_cula;0.0
+La Neuveville;depic_med;0.0
+La Neuveville;depic_spo;0.0
+La Neuveville;depic_egl;0.0
+Moutier;depc_t;2040.0
+Moutier;depc_pat_cul;258.0
+Moutier;depc_cula;188.0
+Moutier;depc_med;0.0
+Moutier;depc_spo;1595.0
+Moutier;depc_egl;0.0
+Moutier;depic_t;33.0
+Moutier;depic_pat_cul;0.0
+Moutier;depic_cula;0.0
+Moutier;depic_med;0.0
+Moutier;depic_spo;33.0
+Moutier;depic_egl;0.0
+Murten;depc_t;2993.0
+Murten;depc_pat_cul;409.0
+Murten;depc_cula;818.0
+Murten;depc_med;0.0
+Murten;depc_spo;1766.0
+Murten;depc_egl;0.0
+Murten;depic_t;54.0
+Murten;depic_pat_cul;39.0
+Murten;depic_cula;0.0
+Murten;depic_med;0.0
+Murten;depic_spo;15.0
+Murten;depic_egl;0.0
+Peseux;depc_t;1370.0
+Peseux;depc_pat_cul;3.0
+Peseux;depc_cula;340.0
+Peseux;depc_med;402.0
+Peseux;depc_spo;559.0
+Peseux;depc_egl;67.0
+Peseux;depic_t;156.0
+Peseux;depic_pat_cul;0.0
+Peseux;depic_cula;0.0
+Peseux;depic_med;156.0
+Peseux;depic_spo;0.0
+Peseux;depic_egl;0.0
+Porrentruy;depc_t;4003.0
+Porrentruy;depc_pat_cul;0.0
+Porrentruy;depc_cula;954.0
+Porrentruy;depc_med;0.0
+Porrentruy;depc_spo;3048.0
+Porrentruy;depc_egl;0.0
+Porrentruy;depic_t;1572.0
+Porrentruy;depic_pat_cul;0.0
+Porrentruy;depic_cula;0.0
+Porrentruy;depic_med;0.0
+Porrentruy;depic_spo;1572.0
+Porrentruy;depic_egl;0.0
+Rorschach;depc_t;4741.0
+Rorschach;depc_pat_cul;54.0
+Rorschach;depc_cula;727.0
+Rorschach;depc_med;0.0
+Rorschach;depc_spo;3960.0
+Rorschach;depc_egl;0.0
+Rorschach;depic_t;935.0
+Rorschach;depic_pat_cul;0.0
+Rorschach;depic_cula;0.0
+Rorschach;depic_med;0.0
+Rorschach;depic_spo;935.0
+Rorschach;depic_egl;0.0
+St. Moritz;depc_t;14109.0
+St. Moritz;depc_pat_cul;629.0
+St. Moritz;depc_cula;965.0
+St. Moritz;depc_med;0.0
+St. Moritz;depc_spo;12514.0
+St. Moritz;depc_egl;0.0
+St. Moritz;depic_t;5156.0
+St. Moritz;depic_pat_cul;244.0
+St. Moritz;depic_cula;112.0
+St. Moritz;depic_med;0.0
+St. Moritz;depic_spo;4801.0
+St. Moritz;depic_egl;0.0
+Stans;depc_t;2261.0
+Stans;depc_pat_cul;136.0
+Stans;depc_cula;412.0
+Stans;depc_med;104.0
+Stans;depc_spo;1609.0
+Stans;depc_egl;0.0
+Stans;depic_t;912.0
+Stans;depic_pat_cul;100.0
+Stans;depic_cula;0.0
+Stans;depic_med;0.0
+Stans;depic_spo;812.0
+Stans;depic_egl;0.0
+Urdorf;depc_t;3325.0
+Urdorf;depc_pat_cul;31.0
+Urdorf;depc_cula;314.0
+Urdorf;depc_med;0.0
+Urdorf;depc_spo;2980.0
+Urdorf;depc_egl;0.0
+Urdorf;depic_t;0.0
+Urdorf;depic_pat_cul;0.0
+Urdorf;depic_cula;0.0
+Urdorf;depic_med;0.0
+Urdorf;depic_spo;0.0
+Urdorf;depic_egl;0.0
+Visp;depc_t;24576.0
+Visp;depc_pat_cul;0.0
+Visp;depc_cula;2770.0
+Visp;depc_med;40.0
+Visp;depc_spo;20670.0
+Visp;depc_egl;1096.0
+Visp;depic_t;20385.0
+Visp;depic_pat_cul;0.0
+Visp;depic_cula;1051.0
+Visp;depic_med;0.0
+Visp;depic_spo;19334.0
+Visp;depic_egl;0.0
+Zermatt;depc_t;5417.0
+Zermatt;depc_pat_cul;334.0
+Zermatt;depc_cula;574.0
+Zermatt;depc_med;123.0
+Zermatt;depc_spo;3873.0
+Zermatt;depc_egl;512.0
+Zermatt;depic_t;1112.0
+Zermatt;depic_pat_cul;75.0
+Zermatt;depic_cula;0.0
+Zermatt;depic_med;0.0
+Zermatt;depic_spo;1036.0
+Zermatt;depic_egl;0.0
+Zuchwil;depc_t;4396.0
+Zuchwil;depc_pat_cul;24.0
+Zuchwil;depc_cula;298.0
+Zuchwil;depc_med;76.0
+Zuchwil;depc_spo;3998.0
+Zuchwil;depc_egl;0.0
+Zuchwil;depic_t;3299.0
+Zuchwil;depic_pat_cul;0.0
+Zuchwil;depic_cula;0.0
+Zuchwil;depic_med;0.0
+Zuchwil;depic_spo;3299.0
+Zuchwil;depic_egl;0.0
