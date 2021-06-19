@@ -1,0 +1,387 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.5171612,
+               "lng" : 6.6334323
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.51843512989272,
+                  "lng" : 6.634791329892722
+               },
+               "southwest" : {
+                  "lat" : 46.51573547010727,
+                  "lng" : 6.632091670107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "name" : "Restaurant La Bruschetta",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100185065206456150906\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKgMbdBmeYoLtc8nP2tSd_Vh1N9xI0DWLW4hZtHppjtUJuQ1rXdI4dKIbRceg7yjNlvMO0dBCue9zHs6ccejmDv04HQWxiDbN__VLwgckpDbQ_gUztaknOCMxmBEIUGWMicFfkLjSg7IE33txpAy87vZslAe_i_6gSoKzOH338a7Ygl",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJZXVjSjMujEcR_8zys6-YwWc",
+         "plus_code" : {
+            "compound_code" : "GJ8M+V9 Lausanne",
+            "global_code" : "8FR8GJ8M+V9"
+         },
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "ChIJZXVjSjMujEcR_8zys6-YwWc",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 386,
+         "vicinity" : "Avenue de la Gare 20, Lausanne"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.5177565,
+               "lng" : 6.6282431
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.51907252989272,
+                  "lng" : 6.629554629892722
+               },
+               "southwest" : {
+                  "lat" : 46.51637287010728,
+                  "lng" : 6.626854970107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "name" : "Le Ticino",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113603549866922063343\"\u003eAmbre Eggimann\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIgxHIDdcJbWJSV6hQwry1xKnktk3SwetdWxQt0TjvB9Y6zr2TXNexOkRb1ygzW-l1IoCGWYWF4h747X1hIHFeELH-WX-utqxlvGndTOzk8r3StJ8JitgNP4bFGNZhtH5TRp4osGVF3aioKfejap0x9KEuKQ-LuCqa_m5DmxCLo_sGq",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJf7O1TS0ujEcR9Hl-oXLuG34",
+         "plus_code" : {
+            "compound_code" : "GJ9H+47 Lausanne",
+            "global_code" : "8FR8GJ9H+47"
+         },
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "ChIJf7O1TS0ujEcR9Hl-oXLuG34",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 909,
+         "vicinity" : "Place de la Gare 12, Lausanne"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.51738330000001,
+               "lng" : 6.630505599999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.51869102989272,
+                  "lng" : 6.631922229892722
+               },
+               "southwest" : {
+                  "lat" : 46.51599137010727,
+                  "lng" : 6.629222570107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "name" : "Restaurant Pizzeria Bella Vita",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3568,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118353875301962411246\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKWFJkjBVlfDdRceke6QvNLUH3KZtpphICdQkvTq7rg2I3VXzRRRspbkNX9ByfOzn9FG7N5YJR2JD_ISv-evmxaOomSwrbyF3F6NSMX_urKMZDNGiBOAh5jXcvknJbVraee7mYfP65K-IiLZzXWsMCO2I8RHQVAa6S0LwZmoAIToadc",
+               "width" : 5106
+            }
+         ],
+         "place_id" : "ChIJayS0tzIujEcR7AhYUmDQq50",
+         "plus_code" : {
+            "compound_code" : "GJ8J+X6 Lausanne",
+            "global_code" : "8FR8GJ8J+X6"
+         },
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "ChIJayS0tzIujEcR7AhYUmDQq50",
+         "scope" : "GOOGLE",
+         "types" : [
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 816,
+         "vicinity" : "Avenue de la Gare 52, Lausanne"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.5175977,
+               "lng" : 6.6294476
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.51885527989272,
+                  "lng" : 6.630771829892722
+               },
+               "southwest" : {
+                  "lat" : 46.51615562010728,
+                  "lng" : 6.628072170107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "name" : "Vapiano",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116341066190736634546\"\u003eYa Sa\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIKJlnKB-kXL11JBqq7fYKbXeEWO16t8KDtbH0CQ5eiOPQ4fLSbmecIu5NRlD4LfTist4xQPA0K8w-yvv_1e02OKtRQa7nRnq4xOKkkOudV4aCWfl6OW886Rq9_vnhHsHdaVKd7oVNKcgXPs2qxXn16V32z_aCkJpWRWhSc1YGRW6vN",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ7_zpVS0ujEcR1nGzTQk2A3c",
+         "plus_code" : {
+            "compound_code" : "GJ9H+2Q Lausanne",
+            "global_code" : "8FR8GJ9H+2Q"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJ7_zpVS0ujEcR1nGzTQk2A3c",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2024,
+         "vicinity" : "Place de la Gare 4, Lausanne"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.5199125,
+               "lng" : 6.636222999999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.52122422989272,
+                  "lng" : 6.637811179892721
+               },
+               "southwest" : {
+                  "lat" : 46.51852457010728,
+                  "lng" : 6.635111520107277
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "name" : "Chez Mario",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1065,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102822054853920010251\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLA6mEc89GYa1UEK7EaLKUtt22wTLOKAD31UJwrLZb9yjHWlOqzV7YUdT1FHfjOhcmlAeev_GPT6kbH6HNrO30lm62d84ob6nA5aw_WB72ZURStZ2mxT7nE3x_Kdf_lnAVPQZ6F4WTS_hQSnfKi6qqm8lncqYAfo0ZxmBWN2FeBQT9r",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJaY-XejQujEcRffe82-CRmDg",
+         "plus_code" : {
+            "compound_code" : "GJ9P+XF Lausanne",
+            "global_code" : "8FR8GJ9P+XF"
+         },
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "ChIJaY-XejQujEcRffe82-CRmDg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "meal_delivery",
+            "cafe",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1142,
+         "vicinity" : "Rue de Bourg 28, Lausanne"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.5207809,
+               "lng" : 6.636487199999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.52217282989272,
+                  "lng" : 6.637735029892721
+               },
+               "southwest" : {
+                  "lat" : 46.51947317010728,
+                  "lng" : 6.635035370107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "name" : "Grappe d'Or",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2268,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100544489406938928524\"\u003eJean-François Niklaus\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLAGVBMVZI71hmWrmkC59ngHhA7pCtwQ8pfjzgZpAbgazARautHApUpK_1H-Lhtv14xScE-yxNrz5HeNl4jWTcqthzLd5ptgzMEydWP7uOqMp1O6T5b8zM2efKxMJqw4iSl0vRPk1Cp2QTQiBO_BaYCnT4S8AqosS0e7Z82-2h0UrA-",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJDxcHEjQujEcRO2kFOj2yUnE",
+         "plus_code" : {
+            "compound_code" : "GJCP+8H Lausanne",
+            "global_code" : "8FR8GJCP+8H"
+         },
+         "price_level" : 2,
+         "rating" : 4.7,
+         "reference" : "ChIJDxcHEjQujEcRO2kFOj2yUnE",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 197,
+         "vicinity" : "Rue Cheneau-de-Bourg 3, Lausanne"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.5211067,
+               "lng" : 6.6290031
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.52225022989272,
+                  "lng" : 6.630133179892721
+               },
+               "southwest" : {
+                  "lat" : 46.51955057010728,
+                  "lng" : 6.627433520107277
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "name" : "Leonardo Bar and Food",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4320,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106269651863406207028\"\u003eLeonardo Sàrl\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIVCVEd9gKicMQGGajd4Xu0yedDkWYdpTeCYaovHPLRpzxQ4YxxEgv-2GOw0pNmh9_Gs5MaxAFWlHfeX23RILIPd9S2eo-wxoy6TzbNQR67jcKrkoQ-5m0V-097MBM1Nmw_NiVodxLhWDr7YG0olDlnGORI-UHOd0iW872E_Ch6vUEM",
+               "width" : 6480
+            }
+         ],
+         "place_id" : "ChIJgzV_1s4xjEcRMg_ZWz7RMiI",
+         "plus_code" : {
+            "compound_code" : "GJCH+CJ Lausanne",
+            "global_code" : "8FR8GJCH+CJ"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJgzV_1s4xjEcRMg_ZWz7RMiI",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 459,
+         "vicinity" : "Voie du Chariot 6, Lausanne"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.5206651,
+               "lng" : 6.635796399999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.52211162989273,
+                  "lng" : 6.637171029892722
+               },
+               "southwest" : {
+                  "lat" : 46.51941197010728,
+                  "lng" : 6.634471370107279
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "name" : "Perbacco",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116327178528355012783\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJtFP0owG72G-D-CapjALoy3FuNphAdBsSLZteJB8OJRb03YMMU_ToBFNfmOo9YKPJDbglMGcdeY5WKjpNPPCy7jfjKD6ctRBwGkkpPUNU3F_2qZwRVR9pyo7ofwFQMEXpBBmDa0l2eH2BuW04BRKZYy94mLIXVp4oAdIFtj_coHYk",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJFUSPCjQujEcRdy5KKBgC0mI",
+         "plus_code" : {
+            "compound_code" : "GJCP+78 Lausanne",
+            "global_code" : "8FR8GJCP+78"
+         },
+         "price_level" : 2,
+         "rating" : 4.5,
+         "reference" : "ChIJFUSPCjQujEcRdy5KKBgC0mI",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 139,
+         "vicinity" : "Rlle des Tanneurs, Lausanne"
+      }
+   ],
+   "status" : "OK"
+}

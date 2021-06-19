@@ -1,0 +1,771 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATtYBwJ20KLCxLbocETBO9RRbM0Oyt_bx0AtU6k5dh7HwWKyasNphkGewTxcEoAUCCHs9oSRp8cKqQlcA7gQznpLYNNrNpmbAajwnaazS0QQTOWc_9qswgIo2tVSow_B9rMaKLx9fDLeH602HifkE75gCOiH3eqCrJOYTXXe-EpWCWpEEx-T6KsuNUxbgj10SZo-Vk3dgG-7nsbS0gw2N2gLeTsfM0MVUbDcoapRE2IvjrrvNB5j15hkEARa7neRpqV2dXAoyeQ8lkd7om0L2xayKrG5L2XLQfS1nQe1qsT5jkfpgvO04YjDmq_XRdAfyW7_PrSl2BvfqLulvHY2ZoA9KgBS9itbP1ki7hyqQO3HCGq14pQ504PVzg0WtPok2rj0gEDY_zPcgGmIDh4Wn_XfkRyo_TOYdyvt4X3VVFk1Se1pkgXPu_WbvArV08XG",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.5236567,
+               "lng" : 6.6319115
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.5249571302915,
+                  "lng" : 6.633440680291502
+               },
+               "southwest" : {
+                  "lat" : 46.52225916970851,
+                  "lng" : 6.630742719708498
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+         "name" : "Connaissance 3, Université des seniors",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJR-PnxzEujEcR5XRJGizR0Xc",
+         "plus_code" : {
+            "compound_code" : "GJFJ+FQ Lausanne, Switzerland",
+            "global_code" : "8FR8GJFJ+FQ"
+         },
+         "rating" : 5,
+         "reference" : "ChIJR-PnxzEujEcR5XRJGizR0Xc",
+         "scope" : "GOOGLE",
+         "types" : [ "university", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Place de la Riponne 5, Lausanne"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.5193425,
+               "lng" : 6.6352729
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.5206457802915,
+                  "lng" : 6.636607780291501
+               },
+               "southwest" : {
+                  "lat" : 46.5179478197085,
+                  "lng" : 6.633909819708498
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+         "name" : "IST Lausanne",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 968,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105555475058765099727\"\u003eIST Lausanne\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJ2YEMRQvOBNKiGa0dytiuhnFPdA6PymJRil3-Vcw8U1O0lqJ-6Je3BkpVh7o4RtMPMBfhOBiZNxQHdMyMDU3ySt1_OKE6W_5f52rMqxm-bpPQrEgdCwVHAdy4BC30Izhjk26-Lf09R1hs0LXzgA_CsuJjds2hrENjqWIObC4yx4V8a",
+               "width" : 1452
+            }
+         ],
+         "place_id" : "ChIJHVHdgTMujEcRWK1z_aq1_ek",
+         "plus_code" : {
+            "compound_code" : "GJ9P+P4 Lausanne, Switzerland",
+            "global_code" : "8FR8GJ9P+P4"
+         },
+         "rating" : 3.2,
+         "reference" : "ChIJHVHdgTMujEcRWK1z_aq1_ek",
+         "scope" : "GOOGLE",
+         "types" : [ "university", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 5,
+         "vicinity" : "Avenue Benjamin-Constant 1, Lausanne"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.5202026,
+               "lng" : 6.6341825
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.52186443029149,
+                  "lng" : 6.635195830291503
+               },
+               "southwest" : {
+                  "lat" : 46.5191664697085,
+                  "lng" : 6.632497869708498
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+         "name" : "PrEP",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJW7DnvTMujEcRPfkJAbHf1rE",
+         "plus_code" : {
+            "compound_code" : "GJCM+3M Lausanne, Switzerland",
+            "global_code" : "8FR8GJCM+3M"
+         },
+         "rating" : 5,
+         "reference" : "ChIJW7DnvTMujEcRPfkJAbHf1rE",
+         "scope" : "GOOGLE",
+         "types" : [ "university", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 16,
+         "vicinity" : "Rue de Bourg 5, Lausanne"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.518733,
+               "lng" : 6.633128999999998
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.5201504802915,
+                  "lng" : 6.634499030291502
+               },
+               "southwest" : {
+                  "lat" : 46.5174525197085,
+                  "lng" : 6.631801069708497
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+         "name" : "University of Music Lausanne",
+         "photos" : [
+            {
+               "height" : 1733,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113852624993644910879\"\u003eHEMU - Haute École de Musique et Conservatoire de Lausanne\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIkCimRSsmgOBal_hj9rVrD7NL4j0lMMmLeqtbTNKGD23p2bpd66HfaGm0T20d3cNlMvFCvihJHGYb77YL5uFilAyHe3NgBKM3Np5LuBHgmrnn1g4H9Q1MWYuTwTA4JwtTK6lJvjqUXRfvHGP4v65n8mxk2-YjYiAz5jBRWnQ8tYY2e",
+               "width" : 2597
+            }
+         ],
+         "place_id" : "ChIJ4Ug2EzMujEcRuKhqZcP6998",
+         "plus_code" : {
+            "compound_code" : "GJ9M+F7 Lausanne, Switzerland",
+            "global_code" : "8FR8GJ9M+F7"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJ4Ug2EzMujEcRuKhqZcP6998",
+         "scope" : "GOOGLE",
+         "types" : [ "university", "school", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 15,
+         "vicinity" : "Rue de la Grotte 2, Lausanne"
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.5203296,
+               "lng" : 6.6344561
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.52117338029149,
+                  "lng" : 6.635941180291502
+               },
+               "southwest" : {
+                  "lat" : 46.51847541970849,
+                  "lng" : 6.633243219708499
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Ecole de théatre et clown, Corps et Masque",
+         "permanently_closed" : true,
+         "photos" : [
+            {
+               "height" : 1152,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112620209555990929488\"\u003eEcole de théatre et clown, Corps et Masque\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLo1zEMM5DsToMSw9xLvYNxcnB3YOXe5veVuvGw1DBnJnSWE-2Y2XhDi_6lcLo1nRRfYjztlkt1FCTirzay8s7SH8ccSB_1gzfcq8xM2nMeNLPoX6cAu9XGOPjl5U9dbu4vlIyq4L2uf3EXb8sOrpjv7d78Y9oqkerbjSPMJltqwPSQ",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJgyPg3iQujEcRNSnlNE6qjAE",
+         "plus_code" : {
+            "compound_code" : "GJCM+4Q Lausanne, Switzerland",
+            "global_code" : "8FR8GJCM+4Q"
+         },
+         "rating" : 5,
+         "reference" : "ChIJgyPg3iQujEcRNSnlNE6qjAE",
+         "scope" : "GOOGLE",
+         "types" : [ "university", "school", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "Rue de Bourg 11, Lausanne"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.5159915,
+               "lng" : 6.6334438
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.5173595802915,
+                  "lng" : 6.634679780291504
+               },
+               "southwest" : {
+                  "lat" : 46.5146616197085,
+                  "lng" : 6.631981819708499
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+         "name" : "Flying Devil",
+         "photos" : [
+            {
+               "height" : 2896,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106320423160035471305\"\u003epooja banga\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIXHBLEv7L-APt7FUjYHMhhRvJH_7QE3Zl1GiKAKXkAXv5_lrvfAUXZSezixOwp1L_kiitk3AXH0u17_tbs4TDHhSaXGbnqLjPKjL_CmxUsH0o1upPRiZ9XWKQbOv5OYyqOy3rYLQiWo5plndssTP2s47T9NU9U_ECfsaAMZozhJPdg",
+               "width" : 2896
+            }
+         ],
+         "place_id" : "ChIJhZJXvswvjEcRfYYXOn86kDY",
+         "plus_code" : {
+            "compound_code" : "GJ8M+99 Lausanne, Switzerland",
+            "global_code" : "8FR8GJ8M+99"
+         },
+         "rating" : 5,
+         "reference" : "ChIJhZJXvswvjEcRfYYXOn86kDY",
+         "scope" : "GOOGLE",
+         "types" : [ "university", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 11,
+         "vicinity" : "Avenue Tissot 2, Lausanne"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.5197405,
+               "lng" : 6.6381968
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.5210345302915,
+                  "lng" : 6.639557880291503
+               },
+               "southwest" : {
+                  "lat" : 46.5183365697085,
+                  "lng" : 6.636859919708498
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+         "name" : "Placement International",
+         "photos" : [
+            {
+               "height" : 1194,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102650164188964486670\"\u003ePlacement International\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwK-2n6cLSnIp-vWG7fyXYgayKUkrjMY179UWAONjsaBWuGaKqtlRoCxw8p6nBeWnXCxHRY2DF07tTj-dfYluRiI7ChRKN4RzoZMrXxCslfrRxk6rkGqlFdPvxeNjisvHYiA5AuT1qIYvSJ8LSo3vN7xEXzhJviIOb3moI-OoEyfIiOs",
+               "width" : 1354
+            }
+         ],
+         "place_id" : "ChIJD4frUjQujEcRMpf_fHRAieU",
+         "plus_code" : {
+            "compound_code" : "GJ9Q+V7 Lausanne, Switzerland",
+            "global_code" : "8FR8GJ9Q+V7"
+         },
+         "rating" : 3.5,
+         "reference" : "ChIJD4frUjQujEcRMpf_fHRAieU",
+         "scope" : "GOOGLE",
+         "types" : [ "lawyer", "university", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 4,
+         "vicinity" : "Avenue du Tribunal-Fédéral 5, Lausanne"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.51803059999999,
+               "lng" : 6.6276817
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.5193293302915,
+                  "lng" : 6.628985380291503
+               },
+               "southwest" : {
+                  "lat" : 46.5166313697085,
+                  "lng" : 6.626287419708499
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+         "name" : "Ecole d'architecture Athenaeum EAAL SA",
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104776872816236303514\"\u003eNatalia Nessler\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJuaOe8Wi0S8I9_n8y-pFNnY0hsXnoTqqXYDW6yDpLEJ1aLnFSEMkEVODB8Cv1yOEUMNY_HaUKlQLCau2kjgAGRAB_MfrkkNL4r-1qKtJFzuvTold7EArD_DGFe_iXGkWjuK_T_0Cbx9LvC00MXLBUcsqORx2FOoFUpALv6qFivbDrs",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJg6JRn9QvjEcR-j2-YoNBsFQ",
+         "plus_code" : {
+            "compound_code" : "GJ9H+63 Lausanne, Switzerland",
+            "global_code" : "8FR8GJ9H+63"
+         },
+         "rating" : 5,
+         "reference" : "ChIJg6JRn9QvjEcR-j2-YoNBsFQ",
+         "scope" : "GOOGLE",
+         "types" : [ "university", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Avenue Louis-Ruchonnet 2, Lausanne"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.5189341,
+               "lng" : 6.627410099999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.5203175802915,
+                  "lng" : 6.628641930291501
+               },
+               "southwest" : {
+                  "lat" : 46.5176196197085,
+                  "lng" : 6.625943969708497
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+         "name" : "Ecole Lemania",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113238158365517700337\"\u003eEcole Lemania\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJalSRmDBr7zBydoPB5x115CqtEucQBiiXzazrCJ-4_OcORjEz9RUQNgZyPXnLl3u4qkYaQxtZ4b-66fCHApyaEonXSl91jw_3F1FU5VjY1h-oGAWMc2A41fC2unOS2VHdFeEdrhP9MYHxfA2r3wNQwAP4MfnhinyojNAJ7aDbUfBK9",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJOfCYEC0ujEcRkS7XgviqWAg",
+         "plus_code" : {
+            "compound_code" : "GJ9G+HX Lausanne, Switzerland",
+            "global_code" : "8FR8GJ9G+HX"
+         },
+         "rating" : 4,
+         "reference" : "ChIJOfCYEC0ujEcRkS7XgviqWAg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "school",
+            "secondary_school",
+            "university",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 25,
+         "vicinity" : "Chemin de Préville 3, Lausanne"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.5174071,
+               "lng" : 6.6313768
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.5186303802915,
+                  "lng" : 6.632843130291502
+               },
+               "southwest" : {
+                  "lat" : 46.5159324197085,
+                  "lng" : 6.630145169708498
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+         "name" : "École MEDICA S.A.",
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115530836669591338767\"\u003eCaveTech Suisse\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKQiuRc6EJYnriUBaPsl2cU7cAByXdlIOqsYgHOswNLyC-yHMBr6tSaV440aIjRqY1kzyu3VRcBBXO_8uXt5V-arEpiRbm210aKgjd2rI3sm9OelPz6H3AN4uH_h2Z0g1za52y2-jQyLL7b6i-GWAVOdtqMfjDx2d3LrpW1jYaPhg0E",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJGQWfzTIujEcR3gjaWCatNcM",
+         "plus_code" : {
+            "compound_code" : "GJ8J+XH Lausanne, Switzerland",
+            "global_code" : "8FR8GJ8J+XH"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJGQWfzTIujEcR3gjaWCatNcM",
+         "scope" : "GOOGLE",
+         "types" : [
+            "university",
+            "school",
+            "health",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 3,
+         "vicinity" : "Avenue de la Gare 44, Lausanne"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.5186533,
+               "lng" : 6.633219800000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.5200268802915,
+                  "lng" : 6.634901280291502
+               },
+               "southwest" : {
+                  "lat" : 46.5173289197085,
+                  "lng" : 6.632203319708498
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+         "name" : "Perspektiven - Studium",
+         "place_id" : "ChIJ__-_EDMujEcR2rjNUPsKpwg",
+         "reference" : "ChIJ__-_EDMujEcR2rjNUPsKpwg",
+         "scope" : "GOOGLE",
+         "types" : [ "university", "point_of_interest", "establishment" ],
+         "vicinity" : "Haute école de musique - Conservatoire de Lausanne (HES-SO), Rue de la Grotte 2, Lausanne"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.52020719999999,
+               "lng" : 6.6344287
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.5211121802915,
+                  "lng" : 6.635933880291502
+               },
+               "southwest" : {
+                  "lat" : 46.5184142197085,
+                  "lng" : 6.633235919708498
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+         "name" : "Namarté – Coaching School Theater",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 768,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107039540789150291110\"\u003eNamarté – Coaching &amp; École de Théâtre\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKfoLO7xhp4wz4faG9l8mbXxL1BYk8hgFYR6SvJ16u00y2h7Gi_s0IBdqxL7fmGrFsy3eRaBgj9zRsQPGG7NxcFWsNewjA7FvjVYvMBkFPHxN2CJ4HmhVCgauJGD7Zv0T8Ewowd5_SvPwYnTWNs7_h2lbqZuJE7au3Aia5bYix85coT",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJPzhL8WkvjEcRABHY9HMqwOo",
+         "plus_code" : {
+            "compound_code" : "GJCM+3Q Lausanne, Switzerland",
+            "global_code" : "8FR8GJCM+3Q"
+         },
+         "rating" : 5,
+         "reference" : "ChIJPzhL8WkvjEcRABHY9HMqwOo",
+         "scope" : "GOOGLE",
+         "types" : [ "university", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 13,
+         "vicinity" : "Rue de Bourg 11, Lausanne"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.521483,
+               "lng" : 6.631459
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.5225303802915,
+                  "lng" : 6.632791180291502
+               },
+               "southwest" : {
+                  "lat" : 46.5198324197085,
+                  "lng" : 6.630093219708497
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+         "name" : "Ecole de coiffure Lausanne SA - Groupe Silvya Terrade",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2443,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104856623372795275913\"\u003eEcole de coiffure Lausanne SA - Groupe Silvya Terrade\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLv5ds4Po8xlPmMeFzY4mMinC_2p3qv-QHXcfkOeuKi3JZVVEBDqWrC48nZ7sIwNPt3lqjH3pwWhFD1LrFl4HvBG4Y0Evz87uFoax1gHQfjmykO1Rjfz6mXY0l9uSssTkpfUYeuti-OpjRQdrXMCZ_GO1_QbVXQANpwIogGdIh9dhui",
+               "width" : 2774
+            }
+         ],
+         "place_id" : "ChIJZdb1AL8vjEcRmcOIWdTPd5Q",
+         "plus_code" : {
+            "compound_code" : "GJCJ+HH Lausanne, Switzerland",
+            "global_code" : "8FR8GJCJ+HH"
+         },
+         "reference" : "ChIJZdb1AL8vjEcRmcOIWdTPd5Q",
+         "scope" : "GOOGLE",
+         "types" : [ "hair_care", "university", "point_of_interest", "establishment" ],
+         "vicinity" : "Rue Grand-Saint-Jean 16, Lausanne"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.5216345,
+               "lng" : 6.6339142
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.5230552302915,
+                  "lng" : 6.635843830291502
+               },
+               "southwest" : {
+                  "lat" : 46.5203572697085,
+                  "lng" : 6.633145869708497
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+         "name" : "Swiss International Institute Lausanne",
+         "place_id" : "ChIJAQDA2TMujEcRdRXMs7tXIco",
+         "plus_code" : {
+            "compound_code" : "GJCM+MH Lausanne, Switzerland",
+            "global_code" : "8FR8GJCM+MH"
+         },
+         "reference" : "ChIJAQDA2TMujEcRdRXMs7tXIco",
+         "scope" : "GOOGLE",
+         "types" : [ "university", "point_of_interest", "establishment" ],
+         "vicinity" : "Rue Mercerie 12, Lausanne"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.5190777,
+               "lng" : 6.628849499999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.5205710302915,
+                  "lng" : 6.630244230291502
+               },
+               "southwest" : {
+                  "lat" : 46.5178730697085,
+                  "lng" : 6.627546269708498
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+         "name" : "Fondation Edouard Fleuret",
+         "place_id" : "ChIJV9TDby0ujEcRx7giumtXSAg",
+         "plus_code" : {
+            "compound_code" : "GJ9H+JG Lausanne, Switzerland",
+            "global_code" : "8FR8GJ9H+JG"
+         },
+         "reference" : "ChIJV9TDby0ujEcRx7giumtXSAg",
+         "scope" : "GOOGLE",
+         "types" : [ "university", "point_of_interest", "establishment" ],
+         "vicinity" : "Chemin des Charmettes 7, Lausanne"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.5222161,
+               "lng" : 6.631806699999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.5240310302915,
+                  "lng" : 6.633316880291503
+               },
+               "southwest" : {
+                  "lat" : 46.5213330697085,
+                  "lng" : 6.630618919708499
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+         "name" : "Rue de la Grotte 2",
+         "place_id" : "ChIJRRwEifcvjEcRoiyXihPluDY",
+         "plus_code" : {
+            "compound_code" : "GJCJ+VP Lausanne, Switzerland",
+            "global_code" : "8FR8GJCJ+VP"
+         },
+         "reference" : "ChIJRRwEifcvjEcRoiyXihPluDY",
+         "scope" : "GOOGLE",
+         "types" : [ "university", "point_of_interest", "establishment" ],
+         "vicinity" : "Rue de la Louve 2, Lausanne"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.51723629999999,
+               "lng" : 6.633558399999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.5184681802915,
+                  "lng" : 6.634854730291502
+               },
+               "southwest" : {
+                  "lat" : 46.5157702197085,
+                  "lng" : 6.632156769708497
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+         "name" : "Ecole Athéna - Lausanne",
+         "place_id" : "ChIJZVF4tjIujEcRhAGK4v7z1-E",
+         "plus_code" : {
+            "compound_code" : "GJ8M+VC Lausanne, Switzerland",
+            "global_code" : "8FR8GJ8M+VC"
+         },
+         "reference" : "ChIJZVF4tjIujEcRhAGK4v7z1-E",
+         "scope" : "GOOGLE",
+         "types" : [ "university", "point_of_interest", "establishment" ],
+         "vicinity" : "Avenue de la Gare 20, Lausanne"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.5176534,
+               "lng" : 6.6293088
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.5188920302915,
+                  "lng" : 6.630627280291503
+               },
+               "southwest" : {
+                  "lat" : 46.5161940697085,
+                  "lng" : 6.627929319708498
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+         "name" : "EDL école d'architecture",
+         "place_id" : "ChIJc7CaHRAvjEcRLgUF9JJl82w",
+         "plus_code" : {
+            "compound_code" : "GJ9H+3P Lausanne, Switzerland",
+            "global_code" : "8FR8GJ9H+3P"
+         },
+         "reference" : "ChIJc7CaHRAvjEcRLgUF9JJl82w",
+         "scope" : "GOOGLE",
+         "types" : [ "university", "point_of_interest", "establishment" ],
+         "vicinity" : "Place de la Gare 4, Lausanne"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.51823269999999,
+               "lng" : 6.6271271
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.51954398029149,
+                  "lng" : 6.628442080291502
+               },
+               "southwest" : {
+                  "lat" : 46.5168460197085,
+                  "lng" : 6.625744119708497
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+         "name" : "SCPU Business School",
+         "place_id" : "ChIJVVVZJC0ujEcRcTvEBFYngik",
+         "plus_code" : {
+            "compound_code" : "GJ9G+7V Lausanne, Switzerland",
+            "global_code" : "8FR8GJ9G+7V"
+         },
+         "reference" : "ChIJVVVZJC0ujEcRcTvEBFYngik",
+         "scope" : "GOOGLE",
+         "types" : [ "university", "point_of_interest", "establishment" ],
+         "vicinity" : "Avenue Louis-Ruchonnet 4, Lausanne"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.5235379,
+               "lng" : 6.6312927
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.5248568302915,
+                  "lng" : 6.632719780291502
+               },
+               "southwest" : {
+                  "lat" : 46.52215886970851,
+                  "lng" : 6.630021819708498
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+         "name" : "Hills School Switzerland",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 901,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104575642902632765572\"\u003eHills School Switzerland\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJiYWPOkAPgR_UhWC4GzO3jYvJzcAFkjnT0zaQ6tjILeijeeMk-nm3VpU4_UHOM6Xl9KIWkvUgkgMyvSzxfEC4IG6XOn4LJYxhLwuepjjN_lEDFhnN8dkWld2tWiQ7ZpPV7JZ-IocYdsAwxu_HELiay84PT5b0mRN9MoHX-xTTCSO5o",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJRxjhLOIvjEcRJ0Lcz-GfdjU",
+         "plus_code" : {
+            "compound_code" : "GJFJ+CG Lausanne, Switzerland",
+            "global_code" : "8FR8GJFJ+CG"
+         },
+         "rating" : 4,
+         "reference" : "ChIJRxjhLOIvjEcRJ0Lcz-GfdjU",
+         "scope" : "GOOGLE",
+         "types" : [ "university", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 4,
+         "vicinity" : "Rue du Valentin 1, Lausanne"
+      }
+   ],
+   "status" : "OK"
+}
